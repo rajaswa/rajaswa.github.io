@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rajaswa Patil* | Rajaswa Patil</title>
-    <link>https://rajaswa.github.io/author/rajaswa-patil/</link>
-      <atom:link href="https://rajaswa.github.io/author/rajaswa-patil/index.xml" rel="self" type="application/rss+xml" />
-    <description>Rajaswa Patil*</description>
+    <title>Veeky Baths | Rajaswa Patil</title>
+    <link>https://rajaswa.github.io/author/veeky-baths/</link>
+      <atom:link href="https://rajaswa.github.io/author/veeky-baths/index.xml" rel="self" type="application/rss+xml" />
+    <description>Veeky Baths</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Rajaswa Patil*</title>
-      <link>https://rajaswa.github.io/author/rajaswa-patil/</link>
+      <title>Veeky Baths</title>
+      <link>https://rajaswa.github.io/author/veeky-baths/</link>
     </image>
-    
-    <item>
-      <title>BPGC at SemEval-2020 Task 11: Propaganda Detection in News Articles with Multi-Granularity Knowledge Sharing and Linguistic Features Based Ensemble Learning</title>
-      <link>https://rajaswa.github.io/publication/bpgc-semeval-propaganda/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/bpgc-semeval-propaganda/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>CNRL at SemEval-2020 Task 5: Modelling Causal Reasoning in Language with Multi-Head Self-Attention Weights Based Counterfactual Detection</title>
