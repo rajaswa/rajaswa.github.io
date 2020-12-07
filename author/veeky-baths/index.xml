@@ -14,9 +14,17 @@
     
     <item>
       <title>CNRL at SemEval-2020 Task 5: Modelling Causal Reasoning in Language with Multi-Head Self-Attention Weights Based Counterfactual Detection</title>
-      <link>https://rajaswa.github.io/publication/cnrl-semeval-counterfactual/</link>
+      <link>https://rajaswa.github.io/publication/semeval-counterfactual-2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/cnrl-semeval-counterfactual/</guid>
+      <guid>https://rajaswa.github.io/publication/semeval-counterfactual-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word2Brain2Image: Visual Reconstruction from Spoken Word Representations</title>
+      <link>https://rajaswa.github.io/publication/accs-word2brain2image-2019/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/accs-word2brain2image-2019/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siddhant Mahurkar | Rajaswa Patil</title>
+    <link>https://rajaswa.github.io/author/siddhant-mahurkar/</link>
+      <atom:link href="https://rajaswa.github.io/author/siddhant-mahurkar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Siddhant Mahurkar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://rajaswa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Siddhant Mahurkar</title>
+      <link>https://rajaswa.github.io/author/siddhant-mahurkar/</link>
+    </image>
+    
+    <item>
+      <title>LRG at SemEval-2020 Task 7: Assessing the Ability of BERT and Derivative Models to Perform Short-Edits Based Humor Grading</title>
+      <link>https://rajaswa.github.io/publication/semeval-humor-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/semeval-humor-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Citta: A Lite Semantic Recommendation Framework for Digital Libraries</title>
+      <link>https://rajaswa.github.io/publication/kedl-citta-2019/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/kedl-citta-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

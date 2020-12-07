@@ -14,17 +14,33 @@
     
     <item>
       <title>BPGC at SemEval-2020 Task 11: Propaganda Detection in News Articles with Multi-Granularity Knowledge Sharing and Linguistic Features Based Ensemble Learning</title>
-      <link>https://rajaswa.github.io/publication/bpgc-semeval-propaganda/</link>
+      <link>https://rajaswa.github.io/publication/semeval-propaganda-2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/bpgc-semeval-propaganda/</guid>
+      <guid>https://rajaswa.github.io/publication/semeval-propaganda-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CNRL at SemEval-2020 Task 5: Modelling Causal Reasoning in Language with Multi-Head Self-Attention Weights Based Counterfactual Detection</title>
-      <link>https://rajaswa.github.io/publication/cnrl-semeval-counterfactual/</link>
+      <link>https://rajaswa.github.io/publication/semeval-counterfactual-2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/cnrl-semeval-counterfactual/</guid>
+      <guid>https://rajaswa.github.io/publication/semeval-counterfactual-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LRG at SemEval-2020 Task 7: Assessing the Ability of BERT and Derivative Models to Perform Short-Edits Based Humor Grading</title>
+      <link>https://rajaswa.github.io/publication/semeval-humor-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/semeval-humor-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Citta: A Lite Semantic Recommendation Framework for Digital Libraries</title>
+      <link>https://rajaswa.github.io/publication/kedl-citta-2019/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/kedl-citta-2019/</guid>
       <description></description>
     </item>
     
