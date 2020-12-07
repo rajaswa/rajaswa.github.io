@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rajaswa.github.io/news/coling2020/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajaswa.github.io/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rajaswa.github.io/news/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rajaswa.github.io/publication-type/1/</loc>
     <lastmod>2020-12-01T00:00:00+05:30</lastmod>
   </url>
@@ -58,11 +73,6 @@
   </url>
   
   <url>
-    <loc>https://rajaswa.github.io/</loc>
-    <lastmod>2020-12-01T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rajaswa.github.io/author/siddhant-mahurkar/</loc>
     <lastmod>2020-12-01T00:00:00+05:30</lastmod>
   </url>
@@ -93,7 +103,7 @@
   </url>
   
   <url>
-    <loc>https://rajaswa.github.io/publication-type/7/</loc>
+    <loc>https://rajaswa.github.io/publication-type/0/</loc>
     <lastmod>2019-12-12T00:00:00+05:30</lastmod>
   </url>
   
