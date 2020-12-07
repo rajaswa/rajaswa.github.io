@@ -5,7 +5,7 @@
     <link>https://rajaswa.github.io/news/</link>
       <atom:link href="https://rajaswa.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent News</title>
@@ -13,11 +13,66 @@
     </image>
     
     <item>
+      <title>I&#39;ll be participating in a round table discussion at the International CCCP Symposium 2020</title>
+      <link>https://rajaswa.github.io/news/ibrainroundtable/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://rajaswa.github.io/news/ibrainroundtable/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ll be participating in a &lt;a href=&#34;http://ibrain.eu/en/node/63&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;round table discussion&lt;/a&gt; at the &lt;a href=&#34;https://neuro.hse.ru/cccp2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International CCCP Symposium 2020&lt;/a&gt;. I&amp;rsquo;ll be talking about the current state of data and resources in the study of Syntactic Processing!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>I&#39;ll be attending COLING 2020 to present our work on Humor Grading and Counterfactual Detection!</title>
       <link>https://rajaswa.github.io/news/coling2020/</link>
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://rajaswa.github.io/news/coling2020/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll be attending COLING 2020 to present our work on Humor Grading and Counterfactual Detection! Shoot me an e-mail or catch me at the conference socials!&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;ll be attending COLING 2020 to present our work on Humor Grading and Counterfactual Detection! Shoot me an &lt;a href=&#34;mailto:f20170334@goa.bits-pilani.ac.in&#34;&gt;e-mail&lt;/a&gt; or catch me at the conference socials!&lt;/p&gt;
+&lt;p&gt;This conference visit is funded by the &lt;a href=&#34;http://bitscogneuro.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cognitive Neuroscience Lab at BITS Goa&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I&#39;ll be attending the Google Research AI Summer School 2020!</title>
+      <link>https://rajaswa.github.io/news/googlesummerschool2020/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://rajaswa.github.io/news/googlesummerschool2020/</guid>
+      <description>&lt;p&gt;&amp;ldquo;I have been shortlisted to attend the first &lt;a href=&#34;https://sites.google.com/view/aisummerschool2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Research AI Summer School&lt;/a&gt; (2020)! Shoot me an &lt;a href=&#34;mailto:f20170334@goa.bits-pilani.ac.in&#34;&gt;e-mail&lt;/a&gt; or catch me at the conference socials!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper on Counterfactual Detection accepted at SemEval 2020!</title>
+      <link>https://rajaswa.github.io/news/semevaltask5accept/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rajaswa.github.io/news/semevaltask5accept/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://rajaswa.github.io/publication/semeval-counterfactual-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNRL at SemEval-2020 Task 5: Modelling Causal Reasoning in Language with Multi-Head Self-Attention Weights Based Counterfactual Detection&lt;/a&gt; has been accpeted for publication at the International Workshop on Semantic Evaluation, 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper on Humor Grading accepted at SemEval 2020!</title>
+      <link>https://rajaswa.github.io/news/semevaltask7accept/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rajaswa.github.io/news/semevaltask7accept/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://rajaswa.github.io/publication/semeval-humor-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LRG at SemEval-2020 Task 7: Assessing the Ability of BERT and Derivative Models to Perform Short-Edits Based Humor Grading&lt;/a&gt; has been accpeted for publication at the International Workshop on Semantic Evaluation, 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper on Propaganda Detection accepted at SemEval 2020!</title>
+      <link>https://rajaswa.github.io/news/semevaltask11accept/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rajaswa.github.io/news/semevaltask11accept/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://rajaswa.github.io/publication/semeval-propaganda-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BPGC at SemEval-2020 Task 11: Propaganda Detection in News Articles with Multi-Granularity Knowledge Sharing and Linguistic Features Based Ensemble Learning&lt;/a&gt; has been accpeted for publication at the International Workshop on Semantic Evaluation, 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neuroscience &amp; AI Reading Course starts at CNRL BITS Goa!</title>
+      <link>https://rajaswa.github.io/news/neuroairc/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://rajaswa.github.io/news/neuroairc/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ll be taking up the Teaching Assitantship duty for the Neuroscience &amp;amp; AI Reading Course at the &lt;a href=&#34;http://bitscogneuro.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cognitive Neuroscience Lab at BITS Goa&lt;/a&gt;. We&amp;rsquo;ll be covering the following topics: Syntactic Processing, Grounded Language Learning, Models of Mental Lexicon Development, Neural Correlates of Discourse Coherence, and Brain Embeddings. Shoot me an &lt;a href=&#34;%22mailto:f20170334@goa.bits-pilani.ac.in%22&#34;&gt;e-mail&lt;/a&gt; to enroll in the course!&lt;/p&gt;
 </description>
     </item>
     
