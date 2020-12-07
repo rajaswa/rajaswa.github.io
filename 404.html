@@ -250,45 +250,15 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WX8VG32JVS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-WX8VG32JVS', {});
-
   
-  document.addEventListener('click', onClickCallback, false);
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','UA-153224273-3');
 </script>
 
-
-  
 
   
 
@@ -684,7 +654,7 @@
   <h2>Latest</h2>
   <ul>
     
-      <li><a href="/news/ibrainroundtable/">I&#39;ll be participating in a round table discussion at the International CCCP Symposium 2020</a></li>
+      <li><a href="/news/ibrainroundtable/">I&#39;ll be participating in a round table discussion at the International CCCP Symposium 2020!</a></li>
     
       <li><a href="/news/coling2020/">I&#39;ll be attending COLING 2020 to present our work on Humor Grading and Counterfactual Detection!</a></li>
     

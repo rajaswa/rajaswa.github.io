@@ -250,45 +250,15 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WX8VG32JVS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-WX8VG32JVS', {});
-
   
-  document.addEventListener('click', onClickCallback, false);
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','UA-153224273-3');
 </script>
 
-
-  
 
   
 
@@ -889,7 +859,7 @@
   <div class="col-12 col-lg-8">
 
     
-    <h1>Biography</h1>
+    <h1>About Me</h1>
 
     <p>I am a senior year undergraduate student at <a href="https://www.bits-pilani.ac.in/Goa/" target="_blank" rel="noopener">BITS Pilani (Goa Campus)</a>, pursuing a major in Electrical &amp; Electronics engineering. I spend most of my time dabbling in research related to computational models of language. Currently, I am working as a Research Assistant at <a href="http://midas.iiitd.edu.in/" target="_blank" rel="noopener">MIDAS-IIITD</a>, and as a Project Assistant at the <a href="http://bitscogneuro.com/" target="_blank" rel="noopener">Cognitive Neuroscience Lab at BITS Goa</a>. I also play around with competitive Data Science and am currently a Competitions Expert on <a href="https://www.kaggle.com/rajaswa" target="_blank" rel="noopener">Kaggle</a>.</p>
 <p>I am also active in the student community: leading the students' Language Research Group (LRG) and being a core member at the <a href="https://www.saidl.in/home" target="_blank" rel="noopener">Society for Artificial Intelligence and Deep Learning (SAiDL)</a> at BITS Goa. Apart from the above mentioned technical interests, I also share a keen interest towards Social Sciences, Eco-criticism, Electronic Music &amp; Table Tennis.</p>
@@ -2004,7 +1974,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="/news/ibrainroundtable/" >I&#39;ll be participating in a round table discussion at the International CCCP Symposium 2020</a>
+  <a href="/news/ibrainroundtable/" >I&#39;ll be participating in a round table discussion at the International CCCP Symposium 2020!</a>
 
   
 
@@ -2267,29 +2237,13 @@
     
     <li>
       <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
-      <span></span>
+      <span>Weekdays 10:00 to 17:00 IST (UTC+05:30</span>
     </li>
     
 
     
 
     
-    
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
-      <a href="https://twitter.com/RajaswaPatil" target="_blank" rel="noopener">DM Me</a>
-    </li>
     
 
   </ul>
