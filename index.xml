@@ -5,12 +5,20 @@
     <link>https://rajaswa.github.io/</link>
       <atom:link href="https://rajaswa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rajaswa Patil</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Rajaswa Patil</title>
       <link>https://rajaswa.github.io/</link>
     </image>
+    
+    <item>
+      <title>Towards Modelling Coherence in Spoken Discourse</title>
+      <link>https://rajaswa.github.io/publication/spoken_discourse_coherence/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/spoken_discourse_coherence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>I&#39;ll be participating in a round table discussion at the International CCCP Symposium 2020!</title>
@@ -98,14 +106,6 @@
       <guid>https://rajaswa.github.io/news/neuroairc/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ll be taking up the Teaching Assitantship duty for the Neuroscience &amp;amp; AI Reading Course at the &lt;a href=&#34;http://bitscogneuro.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cognitive Neuroscience Lab at BITS Goa&lt;/a&gt;. We&amp;rsquo;ll be covering the following topics: Syntactic Processing, Grounded Language Learning, Models of Mental Lexicon Development, Neural Correlates of Discourse Coherence, and Brain Embeddings. Shoot me an &lt;a href=&#34;%22mailto:f20170334@goa.bits-pilani.ac.in%22&#34;&gt;e-mail&lt;/a&gt; to enroll in the course!&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Towards Modelling Coherence in Spoken Discourse</title>
-      <link>https://rajaswa.github.io/publication/spoken_discourse_coherence/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/spoken_discourse_coherence/</guid>
-      <description></description>
     </item>
     
     <item>

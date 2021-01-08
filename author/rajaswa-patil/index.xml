@@ -5,12 +5,20 @@
     <link>https://rajaswa.github.io/author/rajaswa-patil/</link>
       <atom:link href="https://rajaswa.github.io/author/rajaswa-patil/index.xml" rel="self" type="application/rss+xml" />
     <description>Rajaswa Patil</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Rajaswa Patil</title>
       <link>https://rajaswa.github.io/author/rajaswa-patil/</link>
     </image>
+    
+    <item>
+      <title>Towards Modelling Coherence in Spoken Discourse</title>
+      <link>https://rajaswa.github.io/publication/spoken_discourse_coherence/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/spoken_discourse_coherence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BPGC at SemEval-2020 Task 11: Propaganda Detection in News Articles with Multi-Granularity Knowledge Sharing and Linguistic Features Based Ensemble Learning</title>
@@ -33,14 +41,6 @@
       <link>https://rajaswa.github.io/publication/semeval-humor-2020/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
       <guid>https://rajaswa.github.io/publication/semeval-humor-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards Modelling Coherence in Spoken Discourse</title>
-      <link>https://rajaswa.github.io/publication/spoken_discourse_coherence/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/spoken_discourse_coherence/</guid>
       <description></description>
     </item>
     
