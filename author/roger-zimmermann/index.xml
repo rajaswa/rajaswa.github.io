@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roger Zimmermann | Rajaswa Patil</title>
+    <link>https://rajaswa.github.io/author/roger-zimmermann/</link>
+      <atom:link href="https://rajaswa.github.io/author/roger-zimmermann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roger Zimmermann</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://rajaswa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Roger Zimmermann</title>
+      <link>https://rajaswa.github.io/author/roger-zimmermann/</link>
+    </image>
+    
+    <item>
+      <title>Towards Modelling Coherence in Spoken Discourse</title>
+      <link>https://rajaswa.github.io/publication/spoken_discourse_coherence/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/spoken_discourse_coherence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
