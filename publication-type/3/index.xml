@@ -5,7 +5,7 @@
     <link>https://rajaswa.github.io/publication-type/3/</link>
       <atom:link href="https://rajaswa.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Vyākarana: A Colorless Green Benchmark for Syntactic Evaluation in Indic Languages</title>
+      <link>https://rajaswa.github.io/publication/vyakarana-2021/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/vyakarana-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards Modelling Coherence in Spoken Discourse</title>
-      <link>https://rajaswa.github.io/publication/spoken_discourse_coherence/</link>
+      <link>https://rajaswa.github.io/publication/spoken_discourse_coherence-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/spoken_discourse_coherence/</guid>
+      <guid>https://rajaswa.github.io/publication/spoken_discourse_coherence-2021/</guid>
       <description></description>
     </item>
     

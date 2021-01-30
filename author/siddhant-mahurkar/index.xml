@@ -5,12 +5,20 @@
     <link>https://rajaswa.github.io/author/siddhant-mahurkar/</link>
       <atom:link href="https://rajaswa.github.io/author/siddhant-mahurkar/index.xml" rel="self" type="application/rss+xml" />
     <description>Siddhant Mahurkar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Siddhant Mahurkar</title>
       <link>https://rajaswa.github.io/author/siddhant-mahurkar/</link>
     </image>
+    
+    <item>
+      <title>Vyākarana: A Colorless Green Benchmark for Syntactic Evaluation in Indic Languages</title>
+      <link>https://rajaswa.github.io/publication/vyakarana-2021/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/vyakarana-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LRG at SemEval-2020 Task 7: Assessing the Ability of BERT and Derivative Models to Perform Short-Edits Based Humor Grading</title>
