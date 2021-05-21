@@ -5,12 +5,20 @@
     <link>https://rajaswa.github.io/publication-type/1/</link>
       <atom:link href="https://rajaswa.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://rajaswa.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Vyākarana: A Colorless Green Benchmark for Syntactic Evaluation in Indic Languages</title>
+      <link>https://rajaswa.github.io/publication/vyakarana-2021/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/vyakarana-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BPGC at SemEval-2020 Task 11: Propaganda Detection in News Articles with Multi-Granularity Knowledge Sharing and Linguistic Features Based Ensemble Learning</title>

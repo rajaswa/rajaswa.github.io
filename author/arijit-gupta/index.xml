@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Rajaswa Patil</title>
-    <link>https://rajaswa.github.io/publication-type/3/</link>
-      <atom:link href="https://rajaswa.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>Arijit Gupta | Rajaswa Patil</title>
+    <link>https://rajaswa.github.io/author/arijit-gupta/</link>
+      <atom:link href="https://rajaswa.github.io/author/arijit-gupta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arijit Gupta</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Sat, 13 Mar 2021 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>3</title>
-      <link>https://rajaswa.github.io/publication-type/3/</link>
+      <title>Arijit Gupta</title>
+      <link>https://rajaswa.github.io/author/arijit-gupta/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://rajaswa.github.io/publication/lexical-development-children/</link>
       <pubDate>Sat, 13 Mar 2021 00:00:00 +0530</pubDate>
       <guid>https://rajaswa.github.io/publication/lexical-development-children/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards Modelling Coherence in Spoken Discourse</title>
-      <link>https://rajaswa.github.io/publication/spoken_discourse_coherence-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/spoken_discourse_coherence-2021/</guid>
       <description></description>
     </item>
     
