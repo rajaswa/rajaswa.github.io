@@ -329,10 +329,9 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
     <meta property="twitter:site" content="@RajaswaPatil" />
     <meta property="twitter:creator" content="@RajaswaPatil" />
@@ -340,8 +339,8 @@
   <meta property="og:site_name" content="Rajaswa Patil" />
   <meta property="og:url" content="https://rajaswa.github.io/project/feedback-and-memory-in-transformers/" />
   <meta property="og:title" content="Feedback and Memory in Transformers | Rajaswa Patil" />
-  <meta property="og:description" content="My final project submission for the Meta Learning course at BITS Goa (conducted by TCS Research &amp; BITS Goa). The project is based on the Feedback Transformer paper." /><meta property="og:image" content="https://rajaswa.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" />
-    <meta property="twitter:image" content="https://rajaswa.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="My final project submission for the Meta Learning course at BITS Goa (conducted by TCS Research &amp; BITS Goa). The project is based on the Feedback Transformer paper." /><meta property="og:image" content="https://rajaswa.github.io/project/feedback-and-memory-in-transformers/featured.png" />
+    <meta property="twitter:image" content="https://rajaswa.github.io/project/feedback-and-memory-in-transformers/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -374,6 +373,10 @@
     "@id": "https://rajaswa.github.io/project/feedback-and-memory-in-transformers/"
   },
   "headline": "Feedback and Memory in Transformers",
+  
+  "image": [
+    "https://rajaswa.github.io/project/feedback-and-memory-in-transformers/featured.png"
+  ],
   
   "datePublished": "2021-05-02T00:00:00Z",
   "dateModified": "2021-05-02T00:00:00Z",
@@ -644,7 +647,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/projects"><span>Projects</span></a>
+          <a class="nav-link  active" href="/project"><span>Projects</span></a>
         </li>
 
         
@@ -805,18 +808,26 @@
 
 
 
-  
+
+
+
+
+
+
+
 
   
   
+    
   
+
+
 <div class="article-container pt-3">
   <h1>Feedback and Memory in Transformers</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -850,7 +861,7 @@
 
 </div>
 
-    
+  
 
 
 
@@ -921,7 +932,14 @@
 </div>
 
 
-  
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 307px;">
+  <div style="position: relative">
+    <img src="/project/feedback-and-memory-in-transformers/featured_hu70fa18acc1c1d078b4430b2734d77179_276094_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <span class="article-header-caption">Image taken from the Feedback Transformer paper - <a href="https://arxiv.org/abs/2002.09402">https://arxiv.org/abs/2002.09402</a></span>
+  </div>
 </div>
 
 
@@ -940,9 +958,9 @@
 <h2 id="key-contributions">Key Contributions</h2>
 <p>The key contributions of this project can be listed as follows:</p>
 <ol>
-<li><a href="https://github.com/rajaswa/feedback-and-memory-in-transformers#feedback-transformer-implementation" target="_blank" rel="noopener">Implementing and Open-sourcing a modular customizable Feedback Transformer Model in PyTorch</a></li>
-<li><a href="https://github.com/rajaswa/feedback-and-memory-in-transformers#solving-cogs-with-feedback-transformer" target="_blank" rel="noopener">Experimenting the Feedback Transformer Model with COGS Benchmark (Compositional Generalization)</a></li>
-<li><a href="https://github.com/rajaswa/feedback-and-memory-in-transformers/blob/main/README.md#sequence-copy--reverse-task" target="_blank" rel="noopener">Implementing the Sequence Copy &amp; Reverse Task from the original Feedback Transformer Paper</a></li>
+<li>Implementing and Open-sourcing a modular customizable Feedback Transformer Model in PyTorch</li>
+<li>Experimenting the Feedback Transformer Model with COGS Benchmark (Compositional Generalization)</li>
+<li>Implementing the Sequence Copy &amp; Reverse Task from the original Feedback Transformer Paper</li>
 </ol>
 <h3 id="feedback-transformer-implementation">Feedback Transformer Implementation</h3>
 <p>The Feedback Transformer Model has been implemented as PyTorch model class in the given notebook. You can adjust the various hyperparameters and turn the feedback ON/OFF in the Encoder and Decoder of the Model independently. Use the model in the following manner:</p>

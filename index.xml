@@ -58,9 +58,9 @@
 &lt;h2 id=&#34;key-contributions&#34;&gt;Key Contributions&lt;/h2&gt;
 &lt;p&gt;The key contributions of this project can be listed as follows:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rajaswa/feedback-and-memory-in-transformers#feedback-transformer-implementation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Implementing and Open-sourcing a modular customizable Feedback Transformer Model in PyTorch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rajaswa/feedback-and-memory-in-transformers#solving-cogs-with-feedback-transformer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Experimenting the Feedback Transformer Model with COGS Benchmark (Compositional Generalization)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/rajaswa/feedback-and-memory-in-transformers/blob/main/README.md#sequence-copy--reverse-task&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Implementing the Sequence Copy &amp;amp; Reverse Task from the original Feedback Transformer Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Implementing and Open-sourcing a modular customizable Feedback Transformer Model in PyTorch&lt;/li&gt;
+&lt;li&gt;Experimenting the Feedback Transformer Model with COGS Benchmark (Compositional Generalization)&lt;/li&gt;
+&lt;li&gt;Implementing the Sequence Copy &amp;amp; Reverse Task from the original Feedback Transformer Paper&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;feedback-transformer-implementation&#34;&gt;Feedback Transformer Implementation&lt;/h3&gt;
 &lt;p&gt;The Feedback Transformer Model has been implemented as PyTorch model class in the given notebook. You can adjust the various hyperparameters and turn the feedback ON/OFF in the Encoder and Decoder of the Model independently. Use the model in the following manner:&lt;/p&gt;
