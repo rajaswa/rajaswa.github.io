@@ -1,0 +1,1466 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.0.0-beta.3 for Hugo" />
+  
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Rajaswa Patil" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="An example of using the in-built project page." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://rajaswa.github.io/project/feedback-and-memory-in-transformers/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.25a7b8d72ef60dce241c0c505f1ac49e.css" />
+
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153224273-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-153224273-5', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_2.png" />
+
+  <link rel="canonical" href="https://rajaswa.github.io/project/feedback-and-memory-in-transformers/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@RajaswaPatil" />
+    <meta property="twitter:creator" content="@RajaswaPatil" />
+  
+  <meta property="og:site_name" content="Rajaswa Patil" />
+  <meta property="og:url" content="https://rajaswa.github.io/project/feedback-and-memory-in-transformers/" />
+  <meta property="og:title" content="Feedback and Memory in Transformers | Rajaswa Patil" />
+  <meta property="og:description" content="An example of using the in-built project page." /><meta property="og:image" content="https://rajaswa.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://rajaswa.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-05-02T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-05-02T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://rajaswa.github.io/project/feedback-and-memory-in-transformers/"
+  },
+  "headline": "Feedback and Memory in Transformers",
+  
+  "datePublished": "2021-05-02T00:00:00Z",
+  "dateModified": "2021-05-02T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Rajaswa Patil"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Rajaswa Patil",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://rajaswa.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "An example of using the in-built project page."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Feedback and Memory in Transformers | Rajaswa Patil</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  ">
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.eca9bbc7a71accd5ebd9eee0ff004132.js"></script>
+
+  
+
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Rajaswa Patil</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Rajaswa Patil</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#news"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/post"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/talk"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Feedback and Memory in Transformers</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 2, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+<div class="btn-links mb-3">
+  
+  <a class="btn btn-outline-primary my-1" href="https://github.com/rajaswa/feedback-and-memory-in-transformers" target="_blank" rel="noopener">Go to Project Site</a>
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://twitter.com/georgecushen" target="_blank" rel="noopener">
+    <i class="fab fa-twitter mr-1"></i>
+    Follow
+  </a>
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>My final project submission for the <a href="https://sites.google.com/view/meta-learning-2021/home" target="_blank" rel="noopener">Meta Learning</a> course at <a href="https://www.bits-pilani.ac.in/goa/" target="_blank" rel="noopener">BITS Goa</a> (conducted by <a href="https://www.tcs.com/tcs-research" target="_blank" rel="noopener">TCS Research</a> &amp; BITS Goa). The project is based on the <a href="https://arxiv.org/abs/2002.09402" target="_blank" rel="noopener">Feedback Transformer paper</a>. The paper introduces a feedback mechanism in transformer models by adding a recurrent memory-attention based approach. This helps the transformer model in:</p>
+<ol>
+<li>Accessing higher level (layers) representations</li>
+<li>Maintaining a belief state</li>
+<li>Perform a learnable wieghted combined top-down and bottom-up processing</li>
+<li>Decrease compute memory-consumption at inference</li>
+</ol>
+<p>The project can be run as a colab notebook <a href="https://colab.research.google.com/github/rajaswa/feedback-and-memory-in-transformers/blob/main/Feedback_and_Memory_in_Transformers.ipynb" target="_blank" rel="noopener"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"></a> , where the approach given in the paper can be understood in more detail through experimentation. The experiments' Tensorboard logs and a video explanation for the notebook can be found <a href="https://drive.google.com/drive/folders/1Py81M90OgvPynZZZ78El4rBzuamu6A7d?usp=sharing" target="_blank" rel="noopener"><strong>here</strong></a>.</p>
+<h2 id="key-contributions">Key Contributions</h2>
+<p>The key contributions of this project can be listed as follows:</p>
+<ol>
+<li><a href="https://github.com/rajaswa/feedback-and-memory-in-transformers#feedback-transformer-implementation" target="_blank" rel="noopener">Implementing and Open-sourcing a modular customizable Feedback Transformer Model in PyTorch</a></li>
+<li><a href="https://github.com/rajaswa/feedback-and-memory-in-transformers#solving-cogs-with-feedback-transformer" target="_blank" rel="noopener">Experimenting the Feedback Transformer Model with COGS Benchmark (Compositional Generalization)</a></li>
+<li><a href="https://github.com/rajaswa/feedback-and-memory-in-transformers/blob/main/README.md#sequence-copy--reverse-task" target="_blank" rel="noopener">Implementing the Sequence Copy &amp; Reverse Task from the original Feedback Transformer Paper</a></li>
+</ol>
+<h3 id="feedback-transformer-implementation">Feedback Transformer Implementation</h3>
+<p>The Feedback Transformer Model has been implemented as PyTorch model class in the given notebook. You can adjust the various hyperparameters and turn the feedback ON/OFF in the Encoder and Decoder of the Model independently. Use the model in the following manner:</p>
+<pre><code class="language-python">model = FeedbackTransformerModel(
+            encoder_feedback = False,   # Disable Feedback Mehancism in the Encoder
+            decoder_feedback = True,    # Enable Feedback Mehancism in the Decoder
+            memory_context = 8,         # How long to look in the past for Memory-attention
+            input_vocab_size = 800,     # Input Vocabulary Size
+            output_vocab_size = 800,    # Output Vocabulary Size
+            d_model = 128,              # Model Embedding Dimension
+            nhead = 8,                  # Number of Heads in Multi-head Cross-attention and Memory-attention
+            num_layers = 4,             # Number of Encoder and Decoder blocks
+            dim_feedforward = 256,      # Feedforward Dimension
+            max_seq_length = 1000,      # Maximum Sequence Length in Data
+            dropout = 0.1,              # Model Dropout Probability 
+            PAD_IDX = 0,                # PAD Token ID to Mask Padding tokens for Attention
+            activation = &quot;gelu&quot;,        # Model Activation Function: &quot;gelu&quot; / &quot;relu&quot;
+    )
+</code></pre>
+<h3 id="solving-cogs-with-feedback-transformer">Solving COGS with Feedback Transformer</h3>
+<p>The <a href="https://github.com/najoungkim/COGS" target="_blank" rel="noopener">COGS Benchmark</a> is a benchmark for evaluating <strong>compositional generalization &amp; reasoning</strong> in natural language. The COGS task is that of mapping a <strong>natural language sentence to a lambda-expression based semantic logical form</strong>:</p>
+<pre><code class="language-python">input_sentence = &quot;The moose wanted to read .&quot;
+output_logical_form = &quot;* moose ( x _ 1 ) ; want . agent ( x _ 2 , x _ 1 ) AND want . xcomp ( x _ 2 , x _ 4 ) AND read . agent ( x _ 4 , x _ 1 )&quot;
+</code></pre>
+<p>This can be treated as a <strong>sequence-to-sequence semantic-parsing</strong> task. What makes this task challenging is its <strong>Generalization test set</strong>. The following points make it quite challenging:</p>
+<ol>
+<li>Novel (unseen in training) Combination of Familiar Primitives and Grammatical Roles</li>
+<li>Novel (unseen in training) Combination Modified Phrases and Grammatical Roles</li>
+<li>Deeper Recursion (results in longer sentences and deeper lingusitic strucutre i.e. parse tree)</li>
+<li>Verb Argument Structure Alternation</li>
+<li>Verb Class Alteration</li>
+</ol>
+<p>You can check the <a href="https://www.aclweb.org/anthology/2020.emnlp-main.731.pdf" target="_blank" rel="noopener">COGS Paper</a> for more details on the benchmark.</p>
+<p>The COGS dataset can be loaded as a PyTorch-Lightning Module in the following manner:</p>
+<pre><code class="language-python">datamodule = COGSDataModule(
+                        batch_size=128,         # Batch Size for Training 
+                        num_workers=2,          # Number of workers for Data Loading
+                        use_100=False,          # Whether to use single-exposure or hundred-exposures for pimitives in the training set
+                        use_Gen=True            # Whether to use normal test set or generaliztion test set
+            )
+</code></pre>
+<p><strong>NOTE</strong>: <em>The feedback transformer paper does not include this benchmark or any related task. This is the first attempt (to the best of my knowledge) to inspect the effect of incoroporating feedback and memory based architectural biases in solving compositional generalization problem in natural language.</em></p>
+<h4 id="results">Results</h4>
+<p>While the PyTorch-Lightning profiler and Tensorboard logger (included in the notebook) will give a detailed insights into the experiments, here are key metrics to report:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Encoder Feedback</th>
+<th style="text-align:center">Decoder Feedback</th>
+<th style="text-align:center">Num Parameters</th>
+<th style="text-align:center">Validation Accuracy</th>
+<th style="text-align:center">Generalization Accuracy</th>
+<th style="text-align:center">Total Training time</th>
+<th style="text-align:center">Mean Forward time</th>
+<th style="text-align:center">Mean Backward time</th>
+<th style="text-align:center">Inference time</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">False</td>
+<td style="text-align:center">False</td>
+<td style="text-align:center">12.7k</td>
+<td style="text-align:center">69.5%</td>
+<td style="text-align:center">65.44%</td>
+<td style="text-align:center">193.43 s</td>
+<td style="text-align:center">22.58 ms</td>
+<td style="text-align:center">25.17 ms</td>
+<td style="text-align:center">20.08 ms</td>
+</tr>
+<tr>
+<td style="text-align:center">False</td>
+<td style="text-align:center">True</td>
+<td style="text-align:center">12.3k</td>
+<td style="text-align:center">74.1%</td>
+<td style="text-align:center">70.86%</td>
+<td style="text-align:center">4441.7 s</td>
+<td style="text-align:center">645.08 ms</td>
+<td style="text-align:center">1039.30 ms</td>
+<td style="text-align:center">365.49 ms</td>
+</tr>
+<tr>
+<td style="text-align:center">True</td>
+<td style="text-align:center">True</td>
+<td style="text-align:center">12.2k</td>
+<td style="text-align:center">74.4%</td>
+<td style="text-align:center">70.69%</td>
+<td style="text-align:center">7402.4 s</td>
+<td style="text-align:center">701.85 ms</td>
+<td style="text-align:center">1129.4 ms</td>
+<td style="text-align:center">404.65 ms</td>
+</tr>
+</tbody>
+</table>
+<p><strong>NOTE</strong>: <em>The results are subject to change in hyperparameters and training settings. The above results are obtained from the current settings given in the notebook. The results can be increased significantly by training bigger models for longer times.</em></p>
+<h4 id="discussion">Discussion</h4>
+<ul>
+<li>The <strong>Validation accuracy</strong> (roughly equal to the Normal test accuracy) reflects the <strong><em>Expressivity</em></strong> of the models towards the COGS task
+<ul>
+<li>Access to higher level representations might help in semantic-parsing by allowing top-down processing</li>
+<li>In general, incorporating feedback gives the model <strong>more expressivity</strong> with <strong>lesser number of parameters</strong></li>
+</ul>
+</li>
+<li>The <strong>Generalization test accuracy</strong> (usually lower than Validation and Normal test accuracy) reflects the <strong><em>Compositional Generalization</em></strong> capabilities of the models
+<ul>
+<li>This needs accurate inference on previously unseen novel linguistic structures and an ability to maintain a belief state for longer contexts</li>
+<li>On an absolute scale, incorporating feedback <strong>increases the Generalization test accuracies</strong> significantly</li>
+<li>High <em>Expressivity</em> can lead to poor <em>Compositional Generalization</em> in Vanilla Transformer models (as reported in the <a href="https://www.aclweb.org/anthology/2020.emnlp-main.731.pdf" target="_blank" rel="noopener">COGS Paper</a>)</li>
+<li>The Vanilla Transformer model (no feedback) shows a <strong>5.84%</strong> decrease in accuracy between the Validation and Generalization test set</li>
+<li>Enabling feedback in Decoder reduces the drop in Generalization accuracy to <strong>4.37%</strong></li>
+<li>Enabling feedback in Encoder further reduces the the drop in Generalization accuracy to <strong>4.98%</strong></li>
+</ul>
+</li>
+</ul>
+<h3 id="sequence-copy--reverse-task">Sequence Copy &amp; Reverse Task</h3>
+<p>The Sequence Copy &amp; Reverse task is included in the <a href="https://arxiv.org/abs/2002.09402" target="_blank" rel="noopener">Feedback Transformer paper</a> as an Algorithmic task to test the role of memory in long-sequence processing. Since the official dataset is not publicly available, we generate the dataset synthetically.</p>
+<p>The sequence copy &amp; reverse dataset can be loaded as a PyTorch-Lightning Module in the following manner:</p>
+<pre><code class="language-python">datamodule = SequenceCopyDataModule(
+    batch_size=64,                  # Batch Size for Training
+    num_workers=2,                  # Number of workers for Data Loading
+    num_samples_train=10000,        # Number of samples to generate for training set
+    num_samples_eval=1000,          # Number of samples to generate for validation and test set
+    max_length_train=10,            # Sequence length in training samples
+    max_length_eval=50,             # Sequence length in evaluation samples (Should be significantly longer to test for memory effect)
+    reverse=True,                   # Whether to Copy the Input Sequence or Reverse the Input Sequence
+)
+</code></pre>
+<p><strong>NOTE</strong>: <em>The ablation analysis for this task with Feedback Transformer is still in progress. One can still train the Feedback Transformer for this task using the last section of the project&rsquo;s colab notebook.</em></p>
+<h2 id="citations">Citations</h2>
+<p>If you use the code in this repository in any manner, cite the repository:</p>
+<pre><code class="language-python">@misc{patil2021-feedback-github,
+    author       = {Rajaswa Patil},
+    title        = {feedback-and-memory-in-transformers},
+    month        = apr,
+    year         = 2021,
+    publisher    = {Github},
+    url          = &quot;https://github.com/rajaswa/feedback-and-memory-in-transformers&quot;
+    }
+</code></pre>
+<p>If you use the code for Feedback Transfomer or the Sequence Copy &amp; Reverse task, cite the Feedback Transformer paper:</p>
+<pre><code class="language-python">@misc{fan2021addressing,
+      title={Addressing Some Limitations of Transformers with Feedback Memory}, 
+      author={Angela Fan and Thibaut Lavril and Edouard Grave and Armand Joulin and Sainbayar Sukhbaatar},
+      year={2021},
+      eprint={2002.09402},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+</code></pre>
+<p>If you use the code from COGS Benchmark data processing and loading, cite the COGS paper:</p>
+<pre><code class="language-python">@inproceedings{kim-linzen-2020-cogs,
+    title = &quot;{COGS}: A Compositional Generalization Challenge Based on Semantic Interpretation&quot;,
+    author = &quot;Kim, Najoung  and
+      Linzen, Tal&quot;,
+    booktitle = &quot;Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)&quot;,
+    month = nov,
+    year = &quot;2020&quot;,
+    address = &quot;Online&quot;,
+    publisher = &quot;Association for Computational Linguistics&quot;,
+    url = &quot;https://www.aclweb.org/anthology/2020.emnlp-main.731&quot;,
+    doi = &quot;10.18653/v1/2020.emnlp-main.731&quot;,
+    pages = &quot;9087--9105&quot;,
+    abstract = &quot;Natural language is characterized by compositionality: the meaning of a complex expression is constructed from the meanings of its constituent parts. To facilitate the evaluation of the compositional abilities of language processing architectures, we introduce COGS, a semantic parsing dataset based on a fragment of English. The evaluation portion of COGS contains multiple systematic gaps that can only be addressed by compositional generalization; these include new combinations of familiar syntactic structures, or new combinations of familiar words and familiar structures. In experiments with Transformers and LSTMs, we found that in-distribution accuracy on the COGS test set was near-perfect (96{--}99{\%}), but generalization accuracy was substantially lower (16{--}35{\%}) and showed high sensitivity to random seed (+-6{--}8{\%}). These findings indicate that contemporary standard NLP models are limited in their compositional generalization capacity, and position COGS as a good way to measure progress.&quot;,
+}
+</code></pre>
+<h2 id="contact">Contact</h2>
+<p>Submit an issue.</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/deep-learning/">Deep Learning</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://rajaswa.github.io/project/feedback-and-memory-in-transformers/&amp;text=Feedback%20and%20Memory%20in%20Transformers" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://rajaswa.github.io/project/feedback-and-memory-in-transformers/&amp;t=Feedback%20and%20Memory%20in%20Transformers" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Feedback%20and%20Memory%20in%20Transformers&amp;body=https://rajaswa.github.io/project/feedback-and-memory-in-transformers/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://rajaswa.github.io/project/feedback-and-memory-in-transformers/&amp;title=Feedback%20and%20Memory%20in%20Transformers" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Feedback%20and%20Memory%20in%20Transformers%20https://rajaswa.github.io/project/feedback-and-memory-in-transformers/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://rajaswa.github.io/project/feedback-and-memory-in-transformers/&amp;title=Feedback%20and%20Memory%20in%20Transformers" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://rajaswa.github.io/"><img class="avatar mr-3 avatar-circle" src="/author/rajaswa-patil/avatar_hu945d57b57f38def36d5f06ad04e73547_935209_270x270_fill_q75_lanczos_center.jpg" alt="Rajaswa Patil"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://rajaswa.github.io/">Rajaswa Patil</a></h5>
+      <h6 class="card-subtitle">Research Assistant</h6>
+      <p class="card-text">My research interests include natural language processing, speech processing, cognitive science &amp; computational psycholinguistics.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:f20170334@goa.bits-pilani.ac.in" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/RajaswaPatil" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=79uJMXsAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/rajaswa" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/files/cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    © Rajaswa Patil (2021)
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+    Published with
+    <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
+    the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
+    open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.8.4/mermaid.min.js" integrity="sha512-as1BF4+iHZ3BVO6LLDQ7zrbvTXM+c/1iZ1qII/c3c4L8Rn5tHLpFUtpaEtBNS92f+xGsCzsD7b62XP3XYap6oA==" crossorigin="anonymous" title="mermaid"></script>
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    <script src="/js/_vendor/bootstrap.bundle.min.f81d0a1705048649befc8b595e455a94.js"></script>
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/en/js/wowchemy.min.ec25d09954c3cee73ad2d8966d9f0db1.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

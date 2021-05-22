@@ -1,46 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rajaswa Patil</title>
-    <link>https://rajaswa.github.io/</link>
-      <atom:link href="https://rajaswa.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Rajaswa Patil</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
+    <title>Projects | Rajaswa Patil</title>
+    <link>https://rajaswa.github.io/project/</link>
+      <atom:link href="https://rajaswa.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Sun, 02 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Rajaswa Patil</title>
-      <link>https://rajaswa.github.io/</link>
+      <title>Projects</title>
+      <link>https://rajaswa.github.io/project/</link>
     </image>
-    
-    <item>
-      <title>Paper on Syntactic Evaluation in Indic languages accepted at ACL-IJCNLP SRW 2021!</title>
-      <link>https://rajaswa.github.io/news/aclsrw2021accept/</link>
-      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://rajaswa.github.io/news/aclsrw2021accept/</guid>
-      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://rajaswa.github.io/publication/vyakarana-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vyākarana: A Colorless Green Benchmark for Syntactic Evaluation in Indic Languages&lt;/a&gt; has been accpeted for presentation at the &lt;a href=&#34;https://sites.google.com/view/acl-ijcnlp-2021-srw/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL-IJCNLP Student Research Workshop, 2021&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This work was funded by the &lt;a href=&#34;http://bitscogneuro.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cognitive Neuroscience Lab at BITS Goa&lt;/a&gt;, and mentored by &lt;a href=&#34;https://www.cs.utexas.edu/~gdurrett/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Greg Durrett&lt;/a&gt;, &lt;a href=&#34;https://www.utexas.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UT Austin&lt;/a&gt; during the pre-submission mentoring stage at the workshop.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>I&#39;ll be attending the Fifth Summer School on Statistical Methods for Linguistics and Psychology, 6-10 September 2021!</title>
-      <link>https://rajaswa.github.io/news/smlp2021/</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://rajaswa.github.io/news/smlp2021/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll be attending the &lt;a href=&#34;https://vasishth.github.io/smlp2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fifth Summer School on Statistical Methods for Linguistics and Psychology&lt;/a&gt; (Foundational methods in frequentist statistics track - class of 30 students), 6-10 September 2021. Shoot me an &lt;a href=&#34;mailto:f20170334@goa.bits-pilani.ac.in&#34;&gt;e-mail&lt;/a&gt; or catch me at the summer school!&lt;/p&gt;
-&lt;p&gt;This summer school is organized by &lt;a href=&#34;https://vasishth.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Shravan Vasishth&lt;/a&gt;, &lt;a href=&#34;https://www.uni-potsdam.de/en/university-of-potsdam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Potsdam&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>I&#39;ll be contributing to a tutorial on Transformer models at Neuromatch DL Summer School!</title>
-      <link>https://rajaswa.github.io/news/neuromatch2021/</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://rajaswa.github.io/news/neuromatch2021/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll be contributing to a tutorial on Transformer models for NLP at the &lt;a href=&#34;https://academy.neuromatch.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neuromatch DL Summer School&lt;/a&gt;. This lecture will be taught by &lt;a href=&#34;https://hhexiy.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. He He&lt;/a&gt;, &lt;a href=&#34;https://www.nyu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NYU&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Do sign-up for the summer school if interested in an Introduction to Deep Learning!&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Feedback and Memory in Transformers</title>
@@ -229,134 +199,6 @@ output_logical_form = &amp;quot;* moose ( x _ 1 ) ; want . agent ( x _ 2 , x _ 1
 &lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
 &lt;p&gt;Submit an issue.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Using Diachronic Distributed Word Representations as Models of Lexical Development in Children</title>
-      <link>https://rajaswa.github.io/publication/lexical-development-children/</link>
-      <pubDate>Sat, 13 Mar 2021 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/lexical-development-children/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vyākarana: A Colorless Green Benchmark for Syntactic Evaluation in Indic Languages</title>
-      <link>https://rajaswa.github.io/publication/vyakarana-2021/</link>
-      <pubDate>Sat, 30 Jan 2021 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/vyakarana-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards Modelling Coherence in Spoken Discourse</title>
-      <link>https://rajaswa.github.io/publication/spoken_discourse_coherence-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/spoken_discourse_coherence-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>I&#39;ll be participating in a round table discussion at the International CCCP Symposium 2020!</title>
-      <link>https://rajaswa.github.io/news/ibrainroundtable/</link>
-      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://rajaswa.github.io/news/ibrainroundtable/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll be participating in a &lt;a href=&#34;http://ibrain.eu/en/node/63&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;round table discussion&lt;/a&gt; at the &lt;a href=&#34;https://neuro.hse.ru/cccp2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International CCCP Symposium 2020&lt;/a&gt;. I&amp;rsquo;ll be talking about the current state of data and resources in the study of Syntactic Processing!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>I&#39;ll be attending COLING 2020 to present our work on Humor Grading and Counterfactual Detection!</title>
-      <link>https://rajaswa.github.io/news/coling2020/</link>
-      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://rajaswa.github.io/news/coling2020/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll be attending COLING 2020 to present our work on Humor Grading and Counterfactual Detection! Shoot me an &lt;a href=&#34;mailto:f20170334@goa.bits-pilani.ac.in&#34;&gt;e-mail&lt;/a&gt; or catch me at the conference socials!&lt;/p&gt;
-&lt;p&gt;This conference visit is funded by the &lt;a href=&#34;http://bitscogneuro.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cognitive Neuroscience Lab at BITS Goa&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BPGC at SemEval-2020 Task 11: Propaganda Detection in News Articles with Multi-Granularity Knowledge Sharing and Linguistic Features Based Ensemble Learning</title>
-      <link>https://rajaswa.github.io/publication/semeval-propaganda-2020/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/semeval-propaganda-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CNRL at SemEval-2020 Task 5: Modelling Causal Reasoning in Language with Multi-Head Self-Attention Weights Based Counterfactual Detection</title>
-      <link>https://rajaswa.github.io/publication/semeval-counterfactual-2020/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/semeval-counterfactual-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LRG at SemEval-2020 Task 7: Assessing the Ability of BERT and Derivative Models to Perform Short-Edits Based Humor Grading</title>
-      <link>https://rajaswa.github.io/publication/semeval-humor-2020/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/semeval-humor-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>I&#39;ll be attending the Google Research AI Summer School 2020!</title>
-      <link>https://rajaswa.github.io/news/googlesummerschool2020/</link>
-      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://rajaswa.github.io/news/googlesummerschool2020/</guid>
-      <description>&lt;p&gt;&amp;ldquo;I have been shortlisted to attend the first &lt;a href=&#34;https://sites.google.com/view/aisummerschool2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Research AI Summer School&lt;/a&gt; (2020)! Shoot me an &lt;a href=&#34;mailto:f20170334@goa.bits-pilani.ac.in&#34;&gt;e-mail&lt;/a&gt; or catch me at the conference socials!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Paper on Counterfactual Detection accepted at SemEval 2020!</title>
-      <link>https://rajaswa.github.io/news/semevaltask5accept/</link>
-      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rajaswa.github.io/news/semevaltask5accept/</guid>
-      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://rajaswa.github.io/publication/semeval-counterfactual-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNRL at SemEval-2020 Task 5: Modelling Causal Reasoning in Language with Multi-Head Self-Attention Weights Based Counterfactual Detection&lt;/a&gt; has been accpeted for publication at the International Workshop on Semantic Evaluation, 2020.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Paper on Humor Grading accepted at SemEval 2020!</title>
-      <link>https://rajaswa.github.io/news/semevaltask7accept/</link>
-      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rajaswa.github.io/news/semevaltask7accept/</guid>
-      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://rajaswa.github.io/publication/semeval-humor-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LRG at SemEval-2020 Task 7: Assessing the Ability of BERT and Derivative Models to Perform Short-Edits Based Humor Grading&lt;/a&gt; has been accpeted for publication at the International Workshop on Semantic Evaluation, 2020.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Paper on Propaganda Detection accepted at SemEval 2020!</title>
-      <link>https://rajaswa.github.io/news/semevaltask11accept/</link>
-      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rajaswa.github.io/news/semevaltask11accept/</guid>
-      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://rajaswa.github.io/publication/semeval-propaganda-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BPGC at SemEval-2020 Task 11: Propaganda Detection in News Articles with Multi-Granularity Knowledge Sharing and Linguistic Features Based Ensemble Learning&lt;/a&gt; has been accpeted for publication at the International Workshop on Semantic Evaluation, 2020.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Neuroscience &amp; AI Reading Course starts at CNRL BITS Goa!</title>
-      <link>https://rajaswa.github.io/news/neuroairc/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://rajaswa.github.io/news/neuroairc/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll be taking up the Teaching Assitantship duty for the Neuroscience &amp;amp; AI Reading Course at the &lt;a href=&#34;http://bitscogneuro.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cognitive Neuroscience Lab at BITS Goa&lt;/a&gt;. We&amp;rsquo;ll be covering the following topics: Syntactic Processing, Grounded Language Learning, Models of Mental Lexicon Development, Neural Correlates of Discourse Coherence, and Brain Embeddings. Shoot me an &lt;a href=&#34;%22mailto:f20170334@goa.bits-pilani.ac.in%22&#34;&gt;e-mail&lt;/a&gt; to enroll in the course!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Citta: A Lite Semantic Recommendation Framework for Digital Libraries</title>
-      <link>https://rajaswa.github.io/publication/kedl-citta-2019/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/kedl-citta-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Word2Brain2Image: Visual Reconstruction from Spoken Word Representations</title>
-      <link>https://rajaswa.github.io/publication/accs-word2brain2image-2019/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/accs-word2brain2image-2019/</guid>
-      <description></description>
     </item>
     
   </channel>
