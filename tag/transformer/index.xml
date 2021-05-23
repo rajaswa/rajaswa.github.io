@@ -17,7 +17,24 @@
       <link>https://rajaswa.github.io/project/feedback-and-memory-in-transformers/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       <guid>https://rajaswa.github.io/project/feedback-and-memory-in-transformers/</guid>
-      <description>&lt;p&gt;My final project submission for the &lt;a href=&#34;https://sites.google.com/view/meta-learning-2021/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meta Learning&lt;/a&gt; course at &lt;a href=&#34;https://www.bits-pilani.ac.in/goa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BITS Goa&lt;/a&gt; (conducted by &lt;a href=&#34;https://www.tcs.com/tcs-research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCS Research&lt;/a&gt; &amp;amp; BITS Goa). The project is based on the &lt;a href=&#34;https://arxiv.org/abs/2002.09402&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feedback Transformer paper&lt;/a&gt;. The paper introduces a feedback mechanism in transformer models by adding a recurrent memory-attention based approach. This helps the transformer model in:&lt;/p&gt;
+      <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#key-contributions&#34;&gt;Key Contributions&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#feedback-transformer-implementation&#34;&gt;Feedback Transformer Implementation&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#solving-cogs-with-feedback-transformer&#34;&gt;Solving COGS with Feedback Transformer&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#sequence-copy--reverse-task&#34;&gt;Sequence Copy &amp;amp; Reverse Task&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#citations&#34;&gt;Citations&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#contact&#34;&gt;Contact&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;p&gt;My final project submission for the &lt;a href=&#34;https://sites.google.com/view/meta-learning-2021/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meta Learning&lt;/a&gt; course at &lt;a href=&#34;https://www.bits-pilani.ac.in/goa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BITS Goa&lt;/a&gt; (conducted by &lt;a href=&#34;https://www.tcs.com/tcs-research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCS Research&lt;/a&gt; &amp;amp; BITS Goa). The project is based on the &lt;a href=&#34;https://arxiv.org/abs/2002.09402&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feedback Transformer paper&lt;/a&gt;. The paper introduces a feedback mechanism in transformer models by adding a recurrent memory-attention based approach. This helps the transformer model in:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Accessing higher level (layers) representations&lt;/li&gt;
 &lt;li&gt;Maintaining a belief state&lt;/li&gt;
