@@ -5,76 +5,12 @@
     <link>https://rajaswa.github.io/author/rajaswa-patil/</link>
       <atom:link href="https://rajaswa.github.io/author/rajaswa-patil/index.xml" rel="self" type="application/rss+xml" />
     <description>Rajaswa Patil</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Sat, 13 Mar 2021 00:00:00 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright>
     <image>
-      <url>https://rajaswa.github.io/media/icon_hub8a5ba1444943b23def52b8daa8d8f76_164496_512x512_fill_lanczos_center_2.png</url>
+      <url>https://rajaswa.github.io/author/rajaswa-patil/avatar_hu945d57b57f38def36d5f06ad04e73547_935209_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Rajaswa Patil</title>
       <link>https://rajaswa.github.io/author/rajaswa-patil/</link>
     </image>
-    
-    <item>
-      <title>Using Diachronic Distributed Word Representations as Models of Lexical Development in Children</title>
-      <link>https://rajaswa.github.io/publication/lexical-development-children/</link>
-      <pubDate>Sat, 13 Mar 2021 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/lexical-development-children/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vyākarana: A Colorless Green Benchmark for Syntactic Evaluation in Indic Languages</title>
-      <link>https://rajaswa.github.io/publication/vyakarana-2021/</link>
-      <pubDate>Sat, 30 Jan 2021 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/vyakarana-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards Modelling Coherence in Spoken Discourse</title>
-      <link>https://rajaswa.github.io/publication/spoken_discourse_coherence-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/spoken_discourse_coherence-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BPGC at SemEval-2020 Task 11: Propaganda Detection in News Articles with Multi-Granularity Knowledge Sharing and Linguistic Features Based Ensemble Learning</title>
-      <link>https://rajaswa.github.io/publication/semeval-propaganda-2020/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/semeval-propaganda-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CNRL at SemEval-2020 Task 5: Modelling Causal Reasoning in Language with Multi-Head Self-Attention Weights Based Counterfactual Detection</title>
-      <link>https://rajaswa.github.io/publication/semeval-counterfactual-2020/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/semeval-counterfactual-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LRG at SemEval-2020 Task 7: Assessing the Ability of BERT and Derivative Models to Perform Short-Edits Based Humor Grading</title>
-      <link>https://rajaswa.github.io/publication/semeval-humor-2020/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/semeval-humor-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Citta: A Lite Semantic Recommendation Framework for Digital Libraries</title>
-      <link>https://rajaswa.github.io/publication/kedl-citta-2019/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/kedl-citta-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Word2Brain2Image: Visual Reconstruction from Spoken Word Representations</title>
-      <link>https://rajaswa.github.io/publication/accs-word2brain2image-2019/</link>
-      <pubDate>Thu, 12 Dec 2019 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/accs-word2brain2image-2019/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
