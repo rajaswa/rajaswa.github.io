@@ -5,12 +5,30 @@
     <link>https://rajaswa.github.io/</link>
       <atom:link href="https://rajaswa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rajaswa Patil</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/media/icon_hub8a5ba1444943b23def52b8daa8d8f76_164496_512x512_fill_lanczos_center_2.png</url>
       <title>Rajaswa Patil</title>
       <link>https://rajaswa.github.io/</link>
     </image>
+    
+    <item>
+      <title>The Pursuit of Happiness - Undergraduate Research 🧑‍🔬</title>
+      <link>https://rajaswa.github.io/post/undergraduate_research_opportunity_applications/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://rajaswa.github.io/post/undergraduate_research_opportunity_applications/</guid>
+      <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper on Syntactic Evaluation in Indic languages accepted at ACL-IJCNLP SRW 2021!</title>

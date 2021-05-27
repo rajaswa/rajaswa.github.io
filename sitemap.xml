@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rajaswa.github.io/news/aclsrw2021acept/</loc>
-    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
+    <loc>https://rajaswa.github.io/tag/academic/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/category/academic/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/authors/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/categories/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/tag/job/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/category/job/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/post/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rajaswa.github.io/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/author/rajaswa-patil/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/tags/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/post/undergraduate_research_opportunity_applications/</loc>
+    <lastmod>2021-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/news/aclsrw2021acept/</loc>
     <lastmod>2021-05-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rajaswa.github.io/news/</loc>
@@ -32,9 +62,6 @@
     <loc>https://rajaswa.github.io/project/</loc>
     <lastmod>2021-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rajaswa.github.io/tags/</loc>
-    <lastmod>2021-05-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://rajaswa.github.io/tag/transformer/</loc>
     <lastmod>2021-05-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -42,9 +69,6 @@
     <lastmod>2021-03-13T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://rajaswa.github.io/author/arijit-gupta/</loc>
-    <lastmod>2021-03-13T00:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://rajaswa.github.io/authors/</loc>
     <lastmod>2021-03-13T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://rajaswa.github.io/tag/psychology/</loc>
@@ -169,12 +193,6 @@
   </url><url>
     <loc>https://rajaswa.github.io/publication/accs-word2brain2image-2019/</loc>
     <lastmod>2019-12-12T00:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://rajaswa.github.io/categories/</loc>
-  </url><url>
-    <loc>https://rajaswa.github.io/post/</loc>
-  </url><url>
-    <loc>https://rajaswa.github.io/author/rajaswa-patil/</loc>
   </url><url>
     <loc>https://rajaswa.github.io/talk/</loc>
   </url>
