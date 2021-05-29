@@ -5,12 +5,20 @@
     <link>https://rajaswa.github.io/tag/academic/</link>
       <atom:link href="https://rajaswa.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Fri, 28 May 2021 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/media/icon_hub8a5ba1444943b23def52b8daa8d8f76_164496_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>https://rajaswa.github.io/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>CTE Thesis Talk 2021</title>
+      <link>https://rajaswa.github.io/talk/2021_cte_thesis_talk/</link>
+      <pubDate>Fri, 28 May 2021 13:00:00 +0000</pubDate>
+      <guid>https://rajaswa.github.io/talk/2021_cte_thesis_talk/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/CZX8rIaBn_Q&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
     
     <item>
       <title>The Pursuit of Happiness - Undergraduate Research 🧑‍🔬</title>
