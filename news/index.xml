@@ -5,12 +5,21 @@
     <link>https://rajaswa.github.io/news/</link>
       <atom:link href="https://rajaswa.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rajaswa.github.io/media/icon_hub8a5ba1444943b23def52b8daa8d8f76_164496_512x512_fill_lanczos_center_2.png</url>
+      <url>https://rajaswa.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Recent News</title>
       <link>https://rajaswa.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>I have joined TCS Research as a Pre-doctoral Research Fellow!</title>
+      <link>https://rajaswa.github.io/news/tcsresearchpredoc/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://rajaswa.github.io/news/tcsresearchpredoc/</guid>
+      <description>&lt;p&gt;I have joined TCS Research as a Pre-doctoral Research Fellow, where I&amp;rsquo;ll be co-advised by &lt;a href=&#34;https://scholar.google.co.in/citations?user=M5MIeROF8JYC&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Lovekesh Vig&lt;/a&gt; and &lt;a href=&#34;https://scholar.google.co.in/citations?user=f70Rc2wAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Gautam Shroff&lt;/a&gt;. My work will broadly focus on &amp;ldquo;Program Synthesis from Natural Language&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Paper on Syntactic Evaluation in Indic languages accepted at ACL-IJCNLP SRW 2021!</title>
