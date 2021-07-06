@@ -37,18 +37,8 @@
 &lt;/details&gt;
 
 &lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;./misc/images/logo_svg.svg&#34; alt=&#34;Logo&#34; height=12.5% width=12.5%/&gt;
+  &lt;img src=&#34;https://github.com/rajaswa/DRIFT/raw/main/misc/images/logo_svg.svg&#34; alt=&#34;Logo&#34; height=12.5% width=12.5%/&gt;
 &lt;/p&gt;
-&lt;div align=&#39;center&#39;&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/rajaswa/DRIFT/blob/main/LICENSE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/rajaswa/DRIFT&#34; alt=&#34;GitHub license&#34;&gt;&lt;/a&gt;
-&lt;a href=&#34;https://github.com/rajaswa/DRIFT/stargazers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/stars/rajaswa/DRIFT&#34; alt=&#34;GitHub stars&#34;&gt;&lt;/a&gt;
-&lt;a href=&#34;https://github.com/rajaswa/DRIFT/network&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/forks/rajaswa/DRIFT&#34; alt=&#34;GitHub forks&#34;&gt;&lt;/a&gt;
-&lt;a href=&#34;https://github.com/rajaswa/DRIFT/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/issues/rajaswa/DRIFT&#34; alt=&#34;GitHub issues&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div align=&#39;center&#39;&gt;
-&lt;p&gt;&lt;a href=&#34;https://share.streamlit.io/rajaswa/drift/main/app.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://static.streamlit.io/badges/streamlit_badge_black_white.svg&#34; alt=&#34;Open in Streamlit&#34;&gt;&lt;/a&gt;
-&lt;a href=&#34;http://arxiv.org/abs/2107.01198&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/arXiv-2107.01198-b31b1b.svg&#34; alt=&#34;arXiv&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;DRIFT is a tool for Diachronic Analysis of Scientific Literature&lt;/strong&gt;. The application offers &lt;strong&gt;user-friendly&lt;/strong&gt; and &lt;strong&gt;customizable utilities&lt;/strong&gt; for two modes: &lt;strong&gt;&lt;a href=&#34;https://github.com/rajaswa/DRIFT#train-mode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Training&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&#34;https://github.com/rajaswa/DRIFT#analysis-mode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analysis&lt;/a&gt;&lt;/strong&gt;. Currently, the application supports customizable training of diachronic word embeddings with the &lt;strong&gt;&lt;a href=&#34;https://github.com/valedica/twec&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TWEC model&lt;/a&gt;&lt;/strong&gt;. The application supports a variety of analysis methods to monitor &lt;strong&gt;trends and patterns of development in scientific literature&lt;/strong&gt;:&lt;/p&gt;
