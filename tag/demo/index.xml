@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Rajaswa Patil</title>
-    <link>https://rajaswa.github.io/project/</link>
-      <atom:link href="https://rajaswa.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Demo | Rajaswa Patil</title>
+    <link>https://rajaswa.github.io/tag/demo/</link>
+      <atom:link href="https://rajaswa.github.io/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/media/icon_hu1664b71f924a7adcdc24304f9f1a3672_78236_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>https://rajaswa.github.io/project/</link>
+      <title>Demo</title>
+      <link>https://rajaswa.github.io/tag/demo/</link>
     </image>
     
     <item>
@@ -269,209 +269,11 @@ In the paper, it is described as:&lt;/p&gt;
     </item>
     
     <item>
-      <title>Feedback and Memory in Transformers</title>
-      <link>https://rajaswa.github.io/project/feedback-and-memory-in-transformers/</link>
-      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://rajaswa.github.io/project/feedback-and-memory-in-transformers/</guid>
-      <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
-  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#key-contributions&#34;&gt;Key Contributions&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#feedback-transformer-implementation&#34;&gt;Feedback Transformer Implementation&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#solving-cogs-with-feedback-transformer&#34;&gt;Solving COGS with Feedback Transformer&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#sequence-copy--reverse-task&#34;&gt;Sequence Copy &amp;amp; Reverse Task&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#citations&#34;&gt;Citations&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#contact&#34;&gt;Contact&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-&lt;/details&gt;
-
-&lt;p&gt;My final project submission for the &lt;a href=&#34;https://sites.google.com/view/meta-learning-2021/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Meta Learning&lt;/a&gt; course at &lt;a href=&#34;https://www.bits-pilani.ac.in/goa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BITS Goa&lt;/a&gt; (conducted by &lt;a href=&#34;https://www.tcs.com/tcs-research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCS Research&lt;/a&gt; &amp;amp; BITS Goa). The project is based on the &lt;a href=&#34;https://arxiv.org/abs/2002.09402&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feedback Transformer paper&lt;/a&gt;. The paper introduces a feedback mechanism in transformer models by adding a recurrent memory-attention based approach. This helps the transformer model in:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Accessing higher level (layers) representations&lt;/li&gt;
-&lt;li&gt;Maintaining a belief state&lt;/li&gt;
-&lt;li&gt;Perform a learnable wieghted combined top-down and bottom-up processing&lt;/li&gt;
-&lt;li&gt;Decrease compute memory-consumption at inference&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The project can be run as a colab notebook &lt;a href=&#34;https://colab.research.google.com/github/rajaswa/feedback-and-memory-in-transformers/blob/main/Feedback_and_Memory_in_Transformers.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://colab.research.google.com/assets/colab-badge.svg&#34; alt=&#34;colab&#34;&gt;&lt;/a&gt; , where the approach given in the paper can be understood in more detail through experimentation. The experiments&#39; Tensorboard logs and a video explanation for the notebook can be found &lt;a href=&#34;https://drive.google.com/drive/folders/1Py81M90OgvPynZZZ78El4rBzuamu6A7d?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;key-contributions&#34;&gt;Key Contributions&lt;/h2&gt;
-&lt;p&gt;The key contributions of this project can be listed as follows:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Implementing and Open-sourcing a modular customizable Feedback Transformer Model in PyTorch&lt;/li&gt;
-&lt;li&gt;Experimenting the Feedback Transformer Model with COGS Benchmark (Compositional Generalization)&lt;/li&gt;
-&lt;li&gt;Implementing the Sequence Copy &amp;amp; Reverse Task from the original Feedback Transformer Paper&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;feedback-transformer-implementation&#34;&gt;Feedback Transformer Implementation&lt;/h3&gt;
-&lt;p&gt;The Feedback Transformer Model has been implemented as PyTorch model class in the given notebook. You can adjust the various hyperparameters and turn the feedback ON/OFF in the Encoder and Decoder of the Model independently. Use the model in the following manner:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;model = FeedbackTransformerModel(
-            encoder_feedback = False,   # Disable Feedback Mehancism in the Encoder
-            decoder_feedback = True,    # Enable Feedback Mehancism in the Decoder
-            memory_context = 8,         # How long to look in the past for Memory-attention
-            input_vocab_size = 800,     # Input Vocabulary Size
-            output_vocab_size = 800,    # Output Vocabulary Size
-            d_model = 128,              # Model Embedding Dimension
-            nhead = 8,                  # Number of Heads in Multi-head Cross-attention and Memory-attention
-            num_layers = 4,             # Number of Encoder and Decoder blocks
-            dim_feedforward = 256,      # Feedforward Dimension
-            max_seq_length = 1000,      # Maximum Sequence Length in Data
-            dropout = 0.1,              # Model Dropout Probability 
-            PAD_IDX = 0,                # PAD Token ID to Mask Padding tokens for Attention
-            activation = &amp;quot;gelu&amp;quot;,        # Model Activation Function: &amp;quot;gelu&amp;quot; / &amp;quot;relu&amp;quot;
-    )
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h3 id=&#34;solving-cogs-with-feedback-transformer&#34;&gt;Solving COGS with Feedback Transformer&lt;/h3&gt;
-&lt;p&gt;The &lt;a href=&#34;https://github.com/najoungkim/COGS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COGS Benchmark&lt;/a&gt; is a benchmark for evaluating &lt;strong&gt;compositional generalization &amp;amp; reasoning&lt;/strong&gt; in natural language. The COGS task is that of mapping a &lt;strong&gt;natural language sentence to a lambda-expression based semantic logical form&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;input_sentence = &amp;quot;The moose wanted to read .&amp;quot;
-output_logical_form = &amp;quot;* moose ( x _ 1 ) ; want . agent ( x _ 2 , x _ 1 ) AND want . xcomp ( x _ 2 , x _ 4 ) AND read . agent ( x _ 4 , x _ 1 )&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;This can be treated as a &lt;strong&gt;sequence-to-sequence semantic-parsing&lt;/strong&gt; task. What makes this task challenging is its &lt;strong&gt;Generalization test set&lt;/strong&gt;. The following points make it quite challenging:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Novel (unseen in training) Combination of Familiar Primitives and Grammatical Roles&lt;/li&gt;
-&lt;li&gt;Novel (unseen in training) Combination Modified Phrases and Grammatical Roles&lt;/li&gt;
-&lt;li&gt;Deeper Recursion (results in longer sentences and deeper lingusitic strucutre i.e. parse tree)&lt;/li&gt;
-&lt;li&gt;Verb Argument Structure Alternation&lt;/li&gt;
-&lt;li&gt;Verb Class Alteration&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;You can check the &lt;a href=&#34;https://www.aclweb.org/anthology/2020.emnlp-main.731.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COGS Paper&lt;/a&gt; for more details on the benchmark.&lt;/p&gt;
-&lt;p&gt;The COGS dataset can be loaded as a PyTorch-Lightning Module in the following manner:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;datamodule = COGSDataModule(
-                        batch_size=128,         # Batch Size for Training 
-                        num_workers=2,          # Number of workers for Data Loading
-                        use_100=False,          # Whether to use single-exposure or hundred-exposures for pimitives in the training set
-                        use_Gen=True            # Whether to use normal test set or generaliztion test set
-            )
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: &lt;em&gt;The feedback transformer paper does not include this benchmark or any related task. This is the first attempt (to the best of my knowledge) to inspect the effect of incoroporating feedback and memory based architectural biases in solving compositional generalization problem in natural language.&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&#34;results&#34;&gt;Results&lt;/h4&gt;
-&lt;p&gt;While the PyTorch-Lightning profiler and Tensorboard logger (included in the notebook) will give a detailed insights into the experiments, here are key metrics to report:&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Encoder Feedback&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Decoder Feedback&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Num Parameters&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Validation Accuracy&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Generalization Accuracy&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Total Training time&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Mean Forward time&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Mean Backward time&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Inference time&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;False&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;False&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;12.7k&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;69.5%&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;65.44%&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;193.43 s&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;22.58 ms&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;25.17 ms&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;20.08 ms&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;False&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;True&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;12.3k&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;74.1%&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;70.86%&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;4441.7 s&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;645.08 ms&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;1039.30 ms&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;365.49 ms&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;True&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;True&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;12.2k&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;74.4%&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;70.69%&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;7402.4 s&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;701.85 ms&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;1129.4 ms&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;404.65 ms&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: &lt;em&gt;The results are subject to change in hyperparameters and training settings. The above results are obtained from the current settings given in the notebook. The results can be increased significantly by training bigger models for longer times.&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&#34;discussion&#34;&gt;Discussion&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;The &lt;strong&gt;Validation accuracy&lt;/strong&gt; (roughly equal to the Normal test accuracy) reflects the &lt;strong&gt;&lt;em&gt;Expressivity&lt;/em&gt;&lt;/strong&gt; of the models towards the COGS task
-&lt;ul&gt;
-&lt;li&gt;Access to higher level representations might help in semantic-parsing by allowing top-down processing&lt;/li&gt;
-&lt;li&gt;In general, incorporating feedback gives the model &lt;strong&gt;more expressivity&lt;/strong&gt; with &lt;strong&gt;lesser number of parameters&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;The &lt;strong&gt;Generalization test accuracy&lt;/strong&gt; (usually lower than Validation and Normal test accuracy) reflects the &lt;strong&gt;&lt;em&gt;Compositional Generalization&lt;/em&gt;&lt;/strong&gt; capabilities of the models
-&lt;ul&gt;
-&lt;li&gt;This needs accurate inference on previously unseen novel linguistic structures and an ability to maintain a belief state for longer contexts&lt;/li&gt;
-&lt;li&gt;On an absolute scale, incorporating feedback &lt;strong&gt;increases the Generalization test accuracies&lt;/strong&gt; significantly&lt;/li&gt;
-&lt;li&gt;High &lt;em&gt;Expressivity&lt;/em&gt; can lead to poor &lt;em&gt;Compositional Generalization&lt;/em&gt; in Vanilla Transformer models (as reported in the &lt;a href=&#34;https://www.aclweb.org/anthology/2020.emnlp-main.731.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;COGS Paper&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;The Vanilla Transformer model (no feedback) shows a &lt;strong&gt;5.84%&lt;/strong&gt; decrease in accuracy between the Validation and Generalization test set&lt;/li&gt;
-&lt;li&gt;Enabling feedback in Decoder reduces the drop in Generalization accuracy to &lt;strong&gt;4.37%&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Enabling feedback in Encoder further reduces the the drop in Generalization accuracy to &lt;strong&gt;4.98%&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;sequence-copy--reverse-task&#34;&gt;Sequence Copy &amp;amp; Reverse Task&lt;/h3&gt;
-&lt;p&gt;The Sequence Copy &amp;amp; Reverse task is included in the &lt;a href=&#34;https://arxiv.org/abs/2002.09402&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feedback Transformer paper&lt;/a&gt; as an Algorithmic task to test the role of memory in long-sequence processing. Since the official dataset is not publicly available, we generate the dataset synthetically.&lt;/p&gt;
-&lt;p&gt;The sequence copy &amp;amp; reverse dataset can be loaded as a PyTorch-Lightning Module in the following manner:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;datamodule = SequenceCopyDataModule(
-    batch_size=64,                  # Batch Size for Training
-    num_workers=2,                  # Number of workers for Data Loading
-    num_samples_train=10000,        # Number of samples to generate for training set
-    num_samples_eval=1000,          # Number of samples to generate for validation and test set
-    max_length_train=10,            # Sequence length in training samples
-    max_length_eval=50,             # Sequence length in evaluation samples (Should be significantly longer to test for memory effect)
-    reverse=True,                   # Whether to Copy the Input Sequence or Reverse the Input Sequence
-)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: &lt;em&gt;The ablation analysis for this task with Feedback Transformer is still in progress. One can still train the Feedback Transformer for this task using the last section of the project&amp;rsquo;s colab notebook.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;citations&#34;&gt;Citations&lt;/h2&gt;
-&lt;p&gt;If you use the code in this repository in any manner, cite the repository:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;@misc{patil2021-feedback-github,
-    author       = {Rajaswa Patil},
-    title        = {feedback-and-memory-in-transformers},
-    month        = apr,
-    year         = 2021,
-    publisher    = {Github},
-    url          = &amp;quot;https://github.com/rajaswa/feedback-and-memory-in-transformers&amp;quot;
-    }
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;If you use the code for Feedback Transfomer or the Sequence Copy &amp;amp; Reverse task, cite the Feedback Transformer paper:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;@misc{fan2021addressing,
-      title={Addressing Some Limitations of Transformers with Feedback Memory}, 
-      author={Angela Fan and Thibaut Lavril and Edouard Grave and Armand Joulin and Sainbayar Sukhbaatar},
-      year={2021},
-      eprint={2002.09402},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;If you use the code from COGS Benchmark data processing and loading, cite the COGS paper:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;@inproceedings{kim-linzen-2020-cogs,
-    title = &amp;quot;{COGS}: A Compositional Generalization Challenge Based on Semantic Interpretation&amp;quot;,
-    author = &amp;quot;Kim, Najoung  and
-      Linzen, Tal&amp;quot;,
-    booktitle = &amp;quot;Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)&amp;quot;,
-    month = nov,
-    year = &amp;quot;2020&amp;quot;,
-    address = &amp;quot;Online&amp;quot;,
-    publisher = &amp;quot;Association for Computational Linguistics&amp;quot;,
-    url = &amp;quot;https://www.aclweb.org/anthology/2020.emnlp-main.731&amp;quot;,
-    doi = &amp;quot;10.18653/v1/2020.emnlp-main.731&amp;quot;,
-    pages = &amp;quot;9087--9105&amp;quot;,
-    abstract = &amp;quot;Natural language is characterized by compositionality: the meaning of a complex expression is constructed from the meanings of its constituent parts. To facilitate the evaluation of the compositional abilities of language processing architectures, we introduce COGS, a semantic parsing dataset based on a fragment of English. The evaluation portion of COGS contains multiple systematic gaps that can only be addressed by compositional generalization; these include new combinations of familiar syntactic structures, or new combinations of familiar words and familiar structures. In experiments with Transformers and LSTMs, we found that in-distribution accuracy on the COGS test set was near-perfect (96{--}99{\%}), but generalization accuracy was substantially lower (16{--}35{\%}) and showed high sensitivity to random seed (+-6{--}8{\%}). These findings indicate that contemporary standard NLP models are limited in their compositional generalization capacity, and position COGS as a good way to measure progress.&amp;quot;,
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
-&lt;p&gt;Submit an issue &lt;a href=&#34;https://github.com/rajaswa/feedback-and-memory-in-transformers/issues/new/choose&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>DRIFT: A Toolkit for Diachronic Analysis of Scientific Literature</title>
+      <link>https://rajaswa.github.io/publication/drift-2021/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/drift-2021/</guid>
+      <description></description>
     </item>
     
   </channel>

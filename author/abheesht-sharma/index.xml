@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Interpretability | Rajaswa Patil</title>
-    <link>https://rajaswa.github.io/tag/interpretability/</link>
-      <atom:link href="https://rajaswa.github.io/tag/interpretability/index.xml" rel="self" type="application/rss+xml" />
-    <description>Interpretability</description>
+    <title>Abheesht Sharma | Rajaswa Patil</title>
+    <link>https://rajaswa.github.io/author/abheesht-sharma/</link>
+      <atom:link href="https://rajaswa.github.io/author/abheesht-sharma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abheesht Sharma</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/media/icon_hu1664b71f924a7adcdc24304f9f1a3672_78236_512x512_fill_lanczos_center_2.png</url>
-      <title>Interpretability</title>
-      <link>https://rajaswa.github.io/tag/interpretability/</link>
+      <title>Abheesht Sharma</title>
+      <link>https://rajaswa.github.io/author/abheesht-sharma/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://rajaswa.github.io/publication/drift-2021/</link>
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0530</pubDate>
       <guid>https://rajaswa.github.io/publication/drift-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vyākarana: A Colorless Green Benchmark for Syntactic Evaluation in Indic Languages</title>
-      <link>https://rajaswa.github.io/publication/vyakarana-2021/</link>
-      <pubDate>Sat, 30 Jan 2021 00:00:00 +0530</pubDate>
-      <guid>https://rajaswa.github.io/publication/vyakarana-2021/</guid>
       <description></description>
     </item>
     

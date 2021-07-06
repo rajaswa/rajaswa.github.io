@@ -5,12 +5,20 @@
     <link>https://rajaswa.github.io/author/rajaswa-patil/</link>
       <atom:link href="https://rajaswa.github.io/author/rajaswa-patil/index.xml" rel="self" type="application/rss+xml" />
     <description>Rajaswa Patil</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Sat, 13 Mar 2021 00:00:00 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/media/icon_hu1664b71f924a7adcdc24304f9f1a3672_78236_512x512_fill_lanczos_center_2.png</url>
       <title>Rajaswa Patil</title>
       <link>https://rajaswa.github.io/author/rajaswa-patil/</link>
     </image>
+    
+    <item>
+      <title>DRIFT: A Toolkit for Diachronic Analysis of Scientific Literature</title>
+      <link>https://rajaswa.github.io/publication/drift-2021/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/drift-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Using Diachronic Distributed Word Representations as Models of Lexical Development in Children</title>
