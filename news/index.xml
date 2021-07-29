@@ -5,12 +5,21 @@
     <link>https://rajaswa.github.io/news/</link>
       <atom:link href="https://rajaswa.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/media/icon_hu1664b71f924a7adcdc24304f9f1a3672_78236_512x512_fill_lanczos_center_2.png</url>
       <title>Recent News</title>
       <link>https://rajaswa.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>I&#39;ll be giving a talk on Getting Started with ML at an ACM BITS Goa event!</title>
+      <link>https://rajaswa.github.io/news/acmml2021talk/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://rajaswa.github.io/news/acmml2021talk/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ll be giving a talk on &amp;ldquo;&lt;strong&gt;Getting Started with ML&lt;/strong&gt;&amp;rdquo; at an &lt;a href=&#34;https://bitsg.acm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM BITS Goa&lt;/a&gt; event! You can attend the talk on a YouTube livestream &lt;a href=&#34;https://youtu.be/kcXp48ItHf4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; on &lt;strong&gt;28th July 7:30PM IST&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>I have joined TCS Research as a Pre-doctoral Research Fellow!</title>
@@ -76,15 +85,6 @@
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://rajaswa.github.io/news/googlesummerschool2020/</guid>
       <description>&lt;p&gt;&amp;ldquo;I have been shortlisted to attend the first &lt;a href=&#34;https://sites.google.com/view/aisummerschool2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Research AI Summer School&lt;/a&gt; (2020)! Shoot me an &lt;a href=&#34;mailto:f20170334@goa.bits-pilani.ac.in&#34;&gt;e-mail&lt;/a&gt; or catch me at the conference socials!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>I&#39;ll be giving a talk on Getting Started with ML at an ACM BITS Goa event!</title>
-      <link>https://rajaswa.github.io/news/acmml2021talk/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rajaswa.github.io/news/acmml2021talk/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ll be giving a talk on &amp;ldquo;&lt;strong&gt;Getting Started with ML&lt;/strong&gt;&amp;rdquo; at an &lt;a href=&#34;https://bitsg.acm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM BITS Goa&lt;/a&gt; event! You can attend the talk on a YouTube livestream &lt;a href=&#34;https://youtu.be/kcXp48ItHf4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; on &lt;strong&gt;28th July 7:30PM IST&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
     
