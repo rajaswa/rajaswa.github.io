@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rajaswa.github.io/news/tcsresearchpredoc/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <loc>https://rajaswa.github.io/talk/2021_acm_ml_talk/</loc>
+    <lastmod>2021-07-28T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/authors/</loc>
+    <lastmod>2021-07-28T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/tag/ml/</loc>
+    <lastmod>2021-07-28T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rajaswa.github.io/</loc>
+    <lastmod>2021-07-28T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/author/rajaswa-patil/</loc>
+    <lastmod>2021-07-28T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/tags/</loc>
+    <lastmod>2021-07-28T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/talk/</loc>
+    <lastmod>2021-07-28T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/news/tcsresearchpredoc/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rajaswa.github.io/news/</loc>
@@ -23,16 +41,10 @@
     <loc>https://rajaswa.github.io/project/</loc>
     <lastmod>2021-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rajaswa.github.io/tags/</loc>
-    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://rajaswa.github.io/publication-type/3/</loc>
     <lastmod>2021-06-30T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://rajaswa.github.io/author/abheesht-sharma/</loc>
-    <lastmod>2021-06-30T00:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://rajaswa.github.io/authors/</loc>
     <lastmod>2021-06-30T00:00:00+05:30</lastmod>
   </url><url>
     <loc>https://rajaswa.github.io/publication/drift-2021/</loc>
@@ -63,12 +75,6 @@
     <lastmod>2021-05-28T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rajaswa.github.io/tag/job/</loc>
-    <lastmod>2021-05-28T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rajaswa.github.io/author/rajaswa-patil/</loc>
-    <lastmod>2021-05-28T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rajaswa.github.io/talk/</loc>
     <lastmod>2021-05-28T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rajaswa.github.io/category/academic/</loc>
@@ -193,6 +199,9 @@
   </url><url>
     <loc>https://rajaswa.github.io/news/googlesummerschool2020/</loc>
     <lastmod>2020-08-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rajaswa.github.io/news/acmml2021talk/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rajaswa.github.io/news/semevaltask5accept/</loc>
     <lastmod>2020-07-05T00:00:00+00:00</lastmod>
