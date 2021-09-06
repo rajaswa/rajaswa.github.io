@@ -5,12 +5,31 @@
     <link>https://rajaswa.github.io/</link>
       <atom:link href="https://rajaswa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rajaswa Patil</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Wed, 28 Jul 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/media/icon_hu1664b71f924a7adcdc24304f9f1a3672_78236_512x512_fill_lanczos_center_2.png</url>
       <title>Rajaswa Patil</title>
       <link>https://rajaswa.github.io/</link>
     </image>
+    
+    <item>
+      <title>I&#39;ll be serving as a PC member at the MRL 2021 workshop at EMNLP 2021</title>
+      <link>https://rajaswa.github.io/news/mrl2021pc/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rajaswa.github.io/news/mrl2021pc/</guid>
+      <description>&lt;p&gt;I will be serving as the member of the Program Committe for &lt;a href=&#34;https://sites.google.com/view/mrl-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the First Workshop on Multilingual Representation Learning&lt;/a&gt; at &lt;a href=&#34;https://2021.emnlp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMNLP 2021&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>System Demonstration Paper accepted at EMNLP 2021!</title>
+      <link>https://rajaswa.github.io/news/emnlp2021acept/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://rajaswa.github.io/news/emnlp2021acept/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://rajaswa.github.io/publication/drift-2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DRIFT: A Toolkit for Diachronic Analysis of Scientific Literature&lt;/a&gt; has been accpeted for presentation at the &lt;a href=&#34;https://2021.emnlp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EMNLP 2021&lt;/a&gt; conference.&lt;/p&gt;
+&lt;p&gt;You can check out the demo for the system &lt;a href=&#34;https://github.com/rajaswa/DRIFT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ACM BITS Goa &#34;Getting Started with ML&#34; Talk 2021</title>
