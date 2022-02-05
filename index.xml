@@ -5,12 +5,30 @@
     <link>https://rajaswa.github.io/</link>
       <atom:link href="https://rajaswa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rajaswa Patil</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2021)</copyright><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2022)</copyright><lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/media/icon_hu1664b71f924a7adcdc24304f9f1a3672_78236_512x512_fill_lanczos_center_2.png</url>
       <title>Rajaswa Patil</title>
       <link>https://rajaswa.github.io/</link>
     </image>
+    
+    <item>
+      <title>I will be serving as a Mentor at the NAACL 2022 Student Research Workshop!</title>
+      <link>https://rajaswa.github.io/news/naaclsrw2022mentoring-copy/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rajaswa.github.io/news/naaclsrw2022mentoring-copy/</guid>
+      <description>&lt;p&gt;I will be serving as a Mentor at the &lt;a href=&#34;https://naacl2022-srw.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NAACL 2022 Student Research Workshop&lt;/a&gt;. If you are currently a student, consider submitting your completed work, or work in progress to the workshop.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I will be serving as a Mentor at the ACL 2022 Student Research Workshop!</title>
+      <link>https://rajaswa.github.io/news/aclsrw2022mentoring/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://rajaswa.github.io/news/aclsrw2022mentoring/</guid>
+      <description>&lt;p&gt;I will be serving as a Mentor at the &lt;a href=&#34;https://sites.google.com/view/acl-srw-2022/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACL 2022 Student Research Workshop&lt;/a&gt;. If you are currently a student, consider submitting your completed work, or work in progress to the workshop.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Long Paper accepted at MRL-EMNLP 2021!</title>
