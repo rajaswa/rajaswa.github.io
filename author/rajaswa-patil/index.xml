@@ -5,407 +5,83 @@
     <link>https://rajaswa.github.io/author/rajaswa-patil/</link>
       <atom:link href="https://rajaswa.github.io/author/rajaswa-patil/index.xml" rel="self" type="application/rss+xml" />
     <description>Rajaswa Patil</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2023)</copyright><lastBuildDate>Wed, 28 Jul 2021 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2023)</copyright><lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0530</lastBuildDate>
     <image>
-      <url>https://rajaswa.github.io/author/rajaswa-patil/avatar_hub08a493fba6e0cf040c738405e2c0464_3612133_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://rajaswa.github.io/media/icon_hu1664b71f924a7adcdc24304f9f1a3672_78236_512x512_fill_lanczos_center_2.png</url>
       <title>Rajaswa Patil</title>
       <link>https://rajaswa.github.io/author/rajaswa-patil/</link>
     </image>
     
     <item>
-      <title>ACM BITS Goa &#34;Getting Started with ML&#34; Talk 2021</title>
-      <link>https://rajaswa.github.io/talk/2021_acm_ml_talk/</link>
-      <pubDate>Wed, 28 Jul 2021 13:00:00 +0000</pubDate>
-      <guid>https://rajaswa.github.io/talk/2021_acm_ml_talk/</guid>
-      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/kcXp48ItHf4?start=13&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+      <title>DRIFT: A Toolkit for Diachronic Analysis of Scientific Literature</title>
+      <link>https://rajaswa.github.io/publication/drift-2021/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/drift-2021/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>CTE Thesis Talk 2021</title>
-      <link>https://rajaswa.github.io/talk/2021_cte_thesis_talk/</link>
-      <pubDate>Fri, 28 May 2021 13:00:00 +0000</pubDate>
-      <guid>https://rajaswa.github.io/talk/2021_cte_thesis_talk/</guid>
-      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/CZX8rIaBn_Q&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+      <title>Using Diachronic Distributed Word Representations as Models of Lexical Development in Children</title>
+      <link>https://rajaswa.github.io/publication/lexical-development-children/</link>
+      <pubDate>Sat, 13 Mar 2021 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/lexical-development-children/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>The Pursuit of Happiness - Undergraduate Research 🧑‍🔬</title>
-      <link>https://rajaswa.github.io/post/undergraduate_research_opportunity_applications/</link>
-      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://rajaswa.github.io/post/undergraduate_research_opportunity_applications/</guid>
-      <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
-  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#overview-&#34;&gt;Overview 📙&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#what-is-the-task-what-should-we-know-&#34;&gt;What is the task, what should we know? 🤔&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#how-do-i-secure-the-best-possible-research-opportunity-&#34;&gt;How do I secure the best possible research opportunity? 🤔&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#searching-for-the-right-opportunities-&#34;&gt;Searching for the right opportunities 🔍&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#securing-the-right-opportunities-&#34;&gt;Securing the right opportunities 💯&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#concluding-thoughts-&#34;&gt;Concluding thoughts 💭&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;overview-&#34;&gt;Overview 📙&lt;/h2&gt;
-&lt;p&gt;The aim of this post is to share my personal &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; experience and insights in the application process for research opportunities as an undergraduate student. The target audience of this post is the &lt;strong&gt;STEM undergraduate population in Indian universities&lt;/strong&gt; (interested in research opportunities). The post will majorly focus on making the application process more organized and less tiring for the student. &lt;strong&gt;Any form of feedback is welcome&lt;/strong&gt;! 😃&lt;/p&gt;
-&lt;h2 id=&#34;what-is-the-task-what-should-we-know-&#34;&gt;What is the task, what should we know? 🤔&lt;/h2&gt;
-&lt;p&gt;Defining the task at hand, fortunately, seems quite straightforward: &lt;strong&gt;&lt;em&gt;Securing research opportunties&lt;/em&gt;&lt;/strong&gt;. But we do not define things loosely in research. Usually, this particular task has multiple &lt;strong&gt;&lt;em&gt;aspects&lt;/em&gt;&lt;/strong&gt; associated with it. Before you start analyzing and approaching various opportunities, it&amp;rsquo;s always helpful to assess things from your end:&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-img-src-httpsenmemingworld&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;
-      &lt;img alt=&#34;Img src: https://en.meming.world/&#34; srcset=&#34;
-             /post/undergraduate_research_opportunity_applications/kowalski_hu25f904659a53e97830990af863543e16_9221_94fcf474e84acb5d1b32819674c6d949.jpg 400w,
-             /post/undergraduate_research_opportunity_applications/kowalski_hu25f904659a53e97830990af863543e16_9221_7252dc38bb0250d131a4f2a3b9ad8e09.jpg 760w,
-             /post/undergraduate_research_opportunity_applications/kowalski_hu25f904659a53e97830990af863543e16_9221_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-             src=&#34;https://rajaswa.github.io/post/undergraduate_research_opportunity_applications/kowalski_hu25f904659a53e97830990af863543e16_9221_94fcf474e84acb5d1b32819674c6d949.jpg&#34;
-             width=&#34;300&#34;
-             height=&#34;169&#34;
-             loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
-      Img src: &lt;a href=&#34;https://en.meming.world/&#34;&gt;https://en.meming.world/&lt;/a&gt;
-    &lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;👨‍🔬🔬 The Work&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;What excites me the most? &lt;mark&gt;&lt;em&gt;(Curiosity is the key to motivation!)&lt;/em&gt;&lt;/mark&gt;&lt;/li&gt;
-&lt;li&gt;What research topics would I like to work on? &lt;mark&gt;&lt;em&gt;(You need NOT be proficient with them already!)&lt;/em&gt;&lt;/mark&gt;&lt;/li&gt;
-&lt;li&gt;What future prospects would I have once the work/duration is completed? &lt;mark&gt;&lt;em&gt;(Endeavours in Research &amp;amp; Academia tend to be long and slow!)&lt;/em&gt;&lt;/mark&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;🏆📝 The Outcomes&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;What is the most important non-monetary outcome I should aim for? &lt;mark&gt;&lt;em&gt;(Knowledge, Experience, and Networking!)&lt;/em&gt;&lt;/mark&gt;&lt;/li&gt;
-&lt;li&gt;What other non-monetary outcomes am I looking for? &lt;mark&gt;&lt;em&gt;(Publications, patents, letter of recommendations, etc.)&lt;/em&gt;&lt;/mark&gt;&lt;/li&gt;
-&lt;li&gt;How is this going to affect my academics? &lt;mark&gt;&lt;em&gt;(Thesis/project evaluation, simultaneous coursework &amp;amp; academic load, etc.)&lt;/em&gt;&lt;/mark&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;💰💸 The Compensation&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Do I want this to be a funded opportunity? &lt;mark&gt;&lt;em&gt;(Usually, YES!)&lt;/em&gt;&lt;/mark&gt;&lt;/li&gt;
-&lt;li&gt;Am I in a position to secure a funded opportunity? &lt;mark&gt;&lt;em&gt;(You ALWAYS are, the question is about the amount: budget and value!)&lt;/em&gt;&lt;/mark&gt;&lt;/li&gt;
-&lt;li&gt;How flexible should I be regarding this? &lt;mark&gt;&lt;em&gt;(Don&amp;rsquo;t be too flexible, opportunities will always be there, know &amp;amp; protect your self-worth!)&lt;/em&gt;&lt;/mark&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote class=&#34;twitter-tweet tw-align-center&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Best career advice that I can give: Don&amp;#39;t ever attach yourself to a person, a place, a company, an organization or a project. Attach yourself to a mission, a calling, a purpose ONLY. That&amp;#39;s how you keep your power &amp;amp; your peace. It&amp;#39;s worked pretty well for me thus far.&lt;/p&gt;&amp;mdash; erica williams simon (@missewill) &lt;a href=&#34;https://twitter.com/missewill/status/1004476495559966721?ref_src=twsrc%5Etfw&#34;&gt;June 6, 2018&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;p&gt;There might be a couple more things, that you need to be sure about before approaching any opportunity (spend some time thinking about them!). Once you have noted all of them down, you can go ahead with the applications with a clear and confident mindset!&lt;/p&gt;
-&lt;h2 id=&#34;how-do-i-secure-the-best-possible-research-opportunity-&#34;&gt;How do I secure the best possible research opportunity? 🤔&lt;/h2&gt;
-&lt;p&gt;The best possible answer (arguably) to this is:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;You do not! Aim for more, not for the best.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;As an undergraduate/recently graduated student, you&amp;rsquo;ll mostly find these two things to be true (over the time):&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;mark&gt;&lt;em&gt;Your expectations and interests keep changing!&lt;/em&gt;&lt;/mark&gt;&lt;/li&gt;
-&lt;li&gt;&lt;mark&gt;&lt;em&gt;The job market (both academia &amp;amp; industry) is slightly stochastic!&lt;/em&gt;&lt;/mark&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Being a highly motivated student, coming from a competitive background, this is what this usually results in:
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-img-src-httpsenmemingworld&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;
-      &lt;img alt=&#34;Img src: https://en.meming.world/&#34; srcset=&#34;
-             /post/undergraduate_research_opportunity_applications/letmein_hu33c9918dd93f1249c0fb56ab578e5058_18770_880d913ed4e015332c497e1555965d67.jpg 400w,
-             /post/undergraduate_research_opportunity_applications/letmein_hu33c9918dd93f1249c0fb56ab578e5058_18770_ff9a6d98a5c5c1eb33449ed4a06d0fe2.jpg 760w,
-             /post/undergraduate_research_opportunity_applications/letmein_hu33c9918dd93f1249c0fb56ab578e5058_18770_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-             src=&#34;https://rajaswa.github.io/post/undergraduate_research_opportunity_applications/letmein_hu33c9918dd93f1249c0fb56ab578e5058_18770_880d913ed4e015332c497e1555965d67.jpg&#34;
-             width=&#34;300&#34;
-             height=&#34;300&#34;
-             loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
-      Img src: &lt;a href=&#34;https://en.meming.world/&#34;&gt;https://en.meming.world/&lt;/a&gt;
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;It is quite important to understand that it&amp;rsquo;s okay to wait behind the gates to an opportunity, not being let in. But its not okay, to be frustratingly stuck there. The key to beat the stochastic nature of the job market is:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Increasing the quantity and scope of your applications!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;People usually use this strategy by &lt;strong&gt;&amp;ldquo;cold-mailing&amp;rdquo;&lt;/strong&gt; a high number of researchers. Although it does seem to work, &lt;strong&gt;I do not think it&amp;rsquo;s the best way to apply for research opportunities&lt;/strong&gt; &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;. Once you are mentally prepared and well motivated for the applications, its time to explore the ocean of opportunities, and enjoy the process &lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;. This can be done by slowly &amp;amp; sincerely exploring your research community of interest, and networking. While the approaches listed below may seem to be implicit and slow, with a small investment of time 🕒 and effort 👨‍💻, they hold the potential to be a &lt;strong&gt;gold mine 🌟⛏️&lt;/strong&gt; for you!&lt;/p&gt;
-&lt;h3 id=&#34;searching-for-the-right-opportunities-&#34;&gt;Searching for the right opportunities 🔍&lt;/h3&gt;
-&lt;p&gt;There are multiple ways to build a steady source of news 📰 and opportunities 📢 in your field of interest. I might be missing out on a few of them as of now, but given below are the major ones that come to my mind. While these methods might not be as convenient as cold-mailing, they&amp;rsquo;ll reward you highly for your efforts by:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Getting a reply on your queries and applications&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;This is the first and most imporant part of research job applications, &lt;mark&gt;something which mass cold-mailing &lt;strong&gt;DOES NOT&lt;/strong&gt; gurantee&lt;/mark&gt;.&lt;/p&gt;
-&lt;h4 id=&#34;online-presence-&#34;&gt;Online presence 💻🌐&lt;/h4&gt;
-&lt;p&gt;This is one of the most important things &lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; to do as a researcher these days. Most of the opportunities are shared and secured via social media these days! 
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-15&#34;&gt;
-  &lt;summary&gt;Here are a few ways to build an online presence &lt;strong&gt;[click]&lt;/strong&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;ul&gt;
-&lt;li&gt;Follow leading researchers and organizations on social media (Twitter &amp;amp; LinkedIn)&lt;/li&gt;
-&lt;li&gt;Follow various job-posting handles, Twitter lists, Discord forums, Subreddits, etc.&lt;/li&gt;
-&lt;li&gt;If you do not where to look, start by following research leaders in your domain [^5].&lt;/li&gt;
-&lt;li&gt;Turn on notifications for important handles.&lt;/li&gt;
-&lt;li&gt;If you are active enough on these platforms, you can declare your search for an opportunity on them (people do approach on their own)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;/details&gt;&lt;/p&gt;
-&lt;h4 id=&#34;mailing-lists-&#34;&gt;Mailing lists 📢✉️&lt;/h4&gt;
-&lt;p&gt;Subscribing to mailing lists gives you the first-hand access to the latest communication in the community.
-Here are some of the active mailing-lists that I currently know about:&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-16&#34;&gt;
-  &lt;summary&gt;Machine Learning &amp;amp; AI 🤖 &lt;strong&gt;[click]&lt;/strong&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://groups.google.com/g/ml-news&#34;&gt;ML-news&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://web.engr.oregonstate.edu/~dambrobr/uai.html&#34;&gt;UAI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mailman.srv.cs.cmu.edu/mailman/listinfo/connectionists&#34;&gt;Connectionists&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;/details&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-17&#34;&gt;
-  &lt;summary&gt;Psychology &amp;amp; Neuroscience 🧠 &lt;strong&gt;[click]&lt;/strong&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://groups.google.com/g/labjobs/about&#34;&gt;Lab Jobs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://mailman.uib.no/listinfo/corpora&#34;&gt;Corpora-List&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://lists.cognitivesciencesociety.org/listinfo.cgi/announcements-cognitivesciencesociety.org&#34;&gt;CogSci&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://listserv.linguistlist.org/mailman/listinfo/linguist&#34;&gt;The LINGUIST&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;/details&gt;
-&lt;h4 id=&#34;direct-networking-&#34;&gt;Direct networking 🤝👋&lt;/h4&gt;
-&lt;p&gt;This is my personal favorite for an approach to search for opportunities. Not only it makes you feel involved in the community (bringing in the much needed motivation &amp;amp; confidence) but also provides one of the most assured way of securing an opportunity. Due to the global circumstances and the continous efforts of the global academic community, direct networking is becoming more and more easier each day.&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-18&#34;&gt;
-  &lt;summary&gt;Here are a few ways to network efficiently in the scientific &amp;amp; academic community &lt;strong&gt;[click]&lt;/strong&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;ul&gt;
-&lt;li&gt;Attend conferences, summer schools, lectures, workshops, etc.
-&lt;ul&gt;
-&lt;li&gt;Most of these can be attended online&lt;/li&gt;
-&lt;li&gt;Most of these have student waivers (free registration in many cases)&lt;/li&gt;
-&lt;li&gt;Volunteer here to gain important experience and build a presence in the community&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Enagage in scientific discourse on online platforms (Twitter, Reddit, etc.)
-&lt;ul&gt;
-&lt;li&gt;Researchers are exceptionally eager to reply here (and not on mail)&lt;/li&gt;
-&lt;li&gt;This also helps you build online presence&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Mail communication
-&lt;ul&gt;
-&lt;li&gt;This can be thought of as a personalized cold-mailing&lt;/li&gt;
-&lt;li&gt;Ask researchers for resources: papers, code, books, course material, etc.&lt;/li&gt;
-&lt;li&gt;Provide your feedback, constructive criticism, congratulations, etc. to authors of that paper you read&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;/details&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The key to impactful networking is not expecting any direct material returns from it and taking genuine interst in others&#39; work 🙂. The returns will come, as a reward for your continuous support to the community 🎁.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;securing-the-right-opportunities-&#34;&gt;Securing the right opportunities 💯&lt;/h3&gt;
-&lt;p&gt;Once you have a list of opportunites that you would like to apply for, its time to try your luck with them in the most organized and fun way possible.&lt;/p&gt;
-&lt;h4 id=&#34;cracking-the-recruitment-process-&#34;&gt;Cracking the recruitment process 💼&lt;/h4&gt;
-&lt;p&gt;This basically comes down to convince the researcher that you&amp;rsquo;ll be making significant contributions to their work, which is why they should not miss out on hiring you. Usually, one needs to handle two things to do this:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;mark&gt;&lt;em&gt;Carry some relevant skillset and experience (this can be overlooked for undergraduate students in most cases)&lt;/em&gt;&lt;/mark&gt;&lt;/li&gt;
-&lt;li&gt;&lt;mark&gt;&lt;em&gt;Instilling trust in the researcher and their team that you will deliver as expected&lt;/em&gt;&lt;/mark&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-21&#34;&gt;
-  &lt;summary&gt;While networking helps a lot with both these things, there are a few more things you can do to help your cause &lt;strong&gt;[click]&lt;/strong&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;ul&gt;
-&lt;li&gt;Prepare a short statement-of-purpose / draft e-mail
-&lt;ul&gt;
-&lt;li&gt;List your previous experience (work/academic/inudstrial)&lt;/li&gt;
-&lt;li&gt;Point towards one of the researcher&amp;rsquo;s projects where you might be a good addition&lt;/li&gt;
-&lt;li&gt;Explain how this opportunity is seriously important and relevant for you&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;List down a few ideas which you would like to work on (don&amp;rsquo;t worry about the correctness here, this is primiarily to show your sincere interest)&lt;/li&gt;
-&lt;li&gt;Attach your updated personal website&lt;/li&gt;
-&lt;li&gt;Attach your CV, transcripts, relevant project reports, etc.&lt;/li&gt;
-&lt;li&gt;Show your interest and motivation at each stage of the recruitment process
-&lt;ul&gt;
-&lt;li&gt;Seek feedback at the end of each interview or assignment&lt;/li&gt;
-&lt;li&gt;Ask questions and doubts (about the work or in general)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;/details&gt;
-&lt;h4 id=&#34;oraganizing-your-applications-&#34;&gt;Oraganizing your applications 📁&lt;/h4&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-img-src-httpssimplysquaredawaycom10-organizing-memes-laugh&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;
-      &lt;img alt=&#34;Img src: https://simplysquaredaway.com/10-organizing-memes-laugh/&#34; srcset=&#34;
-             /post/undergraduate_research_opportunity_applications/monica_organizing_hu81379170aba8cdddced2422afb757703_89047_a53a1db8b67c75b22c82e8d5a7ceb6df.jpg 400w,
-             /post/undergraduate_research_opportunity_applications/monica_organizing_hu81379170aba8cdddced2422afb757703_89047_7b37ccc1314dbdd505ca88d30918601f.jpg 760w,
-             /post/undergraduate_research_opportunity_applications/monica_organizing_hu81379170aba8cdddced2422afb757703_89047_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-             src=&#34;https://rajaswa.github.io/post/undergraduate_research_opportunity_applications/monica_organizing_hu81379170aba8cdddced2422afb757703_89047_a53a1db8b67c75b22c82e8d5a7ceb6df.jpg&#34;
-             width=&#34;760&#34;
-             height=&#34;414&#34;
-             loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
-      Img src: &lt;a href=&#34;https://simplysquaredaway.com/10-organizing-memes-laugh/&#34;&gt;https://simplysquaredaway.com/10-organizing-memes-laugh/&lt;/a&gt;
-    &lt;/figcaption&gt;&lt;/figure&gt;
-
-With increasing number of applications, it might get a bit trickier to organize them. Every application needs to be taken special care of. This inlcudes adapting your CV/Resume to the opportunity, preparing a SOP/cold-mail, preparing for the interviews, etc.&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-23&#34;&gt;
-  &lt;summary&gt;Here are a few things that I follow to organize my applications &lt;strong&gt;[click]&lt;/strong&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;ul&gt;
-&lt;li&gt;Use a Kanban board to process your applications efficiently
-&lt;ul&gt;
-&lt;li&gt;I use &lt;a href=&#34;https://www.notionwizard.com/how-to-create-a-kanban-board-in-notion/&#34;&gt;Notion Kanban boards&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;I use the following columns in my Kanban board:
-&lt;ul&gt;
-&lt;li&gt;Not Applied (set reminders 🔔 for the entires here, I ask my Google Assitant to do this for me)&lt;/li&gt;
-&lt;li&gt;Applied (set follow-up reminders for this ✉️)&lt;/li&gt;
-&lt;li&gt;In Progress 🕒&lt;/li&gt;
-&lt;li&gt;Accepted ✔️ (you might have to choose from multiple offers eventually 😁)&lt;/li&gt;
-&lt;li&gt;Rejected ❌ (you might have to revisit rejections while applying to similar opportunities in the future 🤔)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Use labels in your E-mail client to classify your application threads
-&lt;ul&gt;
-&lt;li&gt;I use separate labels for inudstry and academia applications&lt;/li&gt;
-&lt;li&gt;I use separate labels for full-time and part-time/internship positions&lt;/li&gt;
-&lt;li&gt;I assign a research topic label to each application&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;/details&gt;
-&lt;h4 id=&#34;tracking-your-applications-&#34;&gt;Tracking your applications ✉️&lt;/h4&gt;
-&lt;p&gt;It is quite important to track your applications properly. Similar to organization, keeping a track of applications becomes difficult with increasing number of applications.&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-24&#34;&gt;
-  &lt;summary&gt;Here are a few things that I follow to track my applications &lt;strong&gt;[click]&lt;/strong&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;ul&gt;
-&lt;li&gt;E-mail tracking
-&lt;ul&gt;
-&lt;li&gt;Students usually make the mistake of adding mail-trackers in their e-mails
-&lt;ul&gt;
-&lt;li&gt;This might block your e-mail, or divert it to spam folder of the reciever&lt;/li&gt;
-&lt;li&gt;This might appear to be disrepsectful to the researcher&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;A better way of tracking here is using &lt;a href=&#34;https://analytics.google.com/analytics/web/&#34;&gt;Google Analytics&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;Link your personal website to Google Analytics&lt;/li&gt;
-&lt;li&gt;This lets you monitor a number of variables related to the beahvior and data of the website visitors&lt;/li&gt;
-&lt;li&gt;List all your attachments in the mail via your website (i.e. CV, reports, code repositories, etc.)&lt;/li&gt;
-&lt;li&gt;This allows you to know when and where was your e-mail read (and your website accessed)&lt;/li&gt;
-&lt;li&gt;It also allows you to monitor the time spent on various web-pages on your website. Which gives a lot of information about what the recruiter has studied about you (which project, which paper, which course, etc.)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;E-mail follow-ups
-&lt;ul&gt;
-&lt;li&gt;Given that researchers are usually quite busy and recieve a high number of e-mails, it is a good idea to send them a follow-up e-mail (make sure you understand the difference between spamming and sending follow-ups)&lt;/li&gt;
-&lt;li&gt;Set reminder to send follow-ups after a particular period of time (Ex: 7 days)&lt;/li&gt;
-&lt;li&gt;I use the &lt;a href=&#34;https://www.followupthen.com/&#34;&gt;followupthen&lt;/a&gt; tool to schedule follow up mails&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Sending enquiries to appropriate professionals
-&lt;ul&gt;
-&lt;li&gt;You should enquire about the status of your applications to the right person&lt;/li&gt;
-&lt;li&gt;Given the busy schedule of the researchers, usually a separate professional handles this&lt;/li&gt;
-&lt;li&gt;For academic labs you should contact the Lab managers and Ph.D. &amp;amp; Master&amp;rsquo;s students in the lab&lt;/li&gt;
-&lt;li&gt;For industrial labs you should contact the HR manager or the recruiter&lt;/li&gt;
-&lt;li&gt;It is always a good habit to CC the supervising researcher nonetheless, to ensure that they are in the loop and your queries are handled seriously by the concerned authority.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;/details&gt;
-&lt;h4 id=&#34;handling-rejections-the-right-way-&#34;&gt;Handling rejections the right way 🤗&lt;/h4&gt;
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-img-src-httpssimplysquaredawaycom10-organizing-memes-laugh&#34;&gt;
-  &lt;div class=&#34;figure-img-wrap&#34; &gt;
-      &lt;img alt=&#34;Img src: https://simplysquaredaway.com/10-organizing-memes-laugh/&#34; srcset=&#34;
-             /post/undergraduate_research_opportunity_applications/organizing_mess_hu9bb88d3314f9bf3358b3ca2a4a1d1c6a_57626_5480c6736e31d1679882d6d3e30ae4f6.jpg 400w,
-             /post/undergraduate_research_opportunity_applications/organizing_mess_hu9bb88d3314f9bf3358b3ca2a4a1d1c6a_57626_9201f3e99efcb5ad7416ff2abbf625f9.jpg 760w,
-             /post/undergraduate_research_opportunity_applications/organizing_mess_hu9bb88d3314f9bf3358b3ca2a4a1d1c6a_57626_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-             src=&#34;https://rajaswa.github.io/post/undergraduate_research_opportunity_applications/organizing_mess_hu9bb88d3314f9bf3358b3ca2a4a1d1c6a_57626_5480c6736e31d1679882d6d3e30ae4f6.jpg&#34;
-             width=&#34;604&#34;
-             height=&#34;453&#34;
-             loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;&lt;figcaption&gt;
-      Img src: &lt;a href=&#34;https://simplysquaredaway.com/10-organizing-memes-laugh/&#34;&gt;https://simplysquaredaway.com/10-organizing-memes-laugh/&lt;/a&gt;
-    &lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p&gt;There is a good chance that you&amp;rsquo;ll face numerous rejections before landing the perfect opportunity.&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-26&#34;&gt;
-  &lt;summary&gt;While it is natural to get demotivated with each rejection, there is a lot to be gained from them &lt;strong&gt;[click]&lt;/strong&gt;&lt;/summary&gt;
-  &lt;p&gt;&lt;ul&gt;
-&lt;li&gt;Make sure you thank the researcher and his team for their time and consideration&lt;/li&gt;
-&lt;li&gt;Compulsorily seek feedback about why you could not make it, by asking the following:
-&lt;ul&gt;
-&lt;li&gt;Where have could you improved your application? (helps with other future applications)&lt;/li&gt;
-&lt;li&gt;Will they consider you (and alert) for any possible future opportunity?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Ask for the possibility of staying in touch with the researcher&amp;rsquo;s work by attending their lectures, lab reading sessions, etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;/details&gt;
-&lt;p&gt;Handling setbacks and rejections is one of the most important expected qualities in a researcher. Just showing willingness to take this rejection positively can significantly help your future prospects with opportunities from the same organization or researcher.&lt;/p&gt;
-&lt;h2 id=&#34;concluding-thoughts-&#34;&gt;Concluding thoughts 💭&lt;/h2&gt;
-&lt;p&gt;The whole process of scientific research can be quite exhausting and tiring 😫. Applying to opportunities is just the first step here. One simply cannot afford to get exhausted during the application stage itself. It is always good to approach other senior researchers around you, seeking help, discussing your thoughts, joys and frustrations. During your undergraduate studies, your seniors in the college or university can be approached. On the surface, the scientific community might seem to be inapproachable, busy, and arrogant. But once you explore the community, you&amp;rsquo;ll find them to be approachable and highly social &amp;amp; helping! 😊&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Do not hesitate, know your worth, know your potential. Support the community ❤️&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I would be really glad to know if this helped somebody land a research opportunity (drop me an e-mail if it did!). Any form of feedback on this post can be provided to me via e-mail or anonymously through this &lt;a href=&#34;https://forms.gle/Qn7Byou7qUcLN1rP7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;form&lt;/a&gt;.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;This might not generalize perfectly across all the disciplines, demographies, and backgrounds. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;I do not advocate against cold-mailing (in-fact its one of the beautiful tools in academic research. I advocate against &amp;ldquo;mass cold-mailing&amp;rdquo; specifically.) &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;I personally do not find cold-mailing enjoyable. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;If not the most important. &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-</description>
+      <title>Vyākarana: A Colorless Green Benchmark for Syntactic Evaluation in Indic Languages</title>
+      <link>https://rajaswa.github.io/publication/vyakarana-2021/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/vyakarana-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Modelling Coherence in Spoken Discourse</title>
+      <link>https://rajaswa.github.io/publication/spoken_discourse_coherence-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/spoken_discourse_coherence-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BPGC at SemEval-2020 Task 11: Propaganda Detection in News Articles with Multi-Granularity Knowledge Sharing and Linguistic Features Based Ensemble Learning</title>
+      <link>https://rajaswa.github.io/publication/semeval-propaganda-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/semeval-propaganda-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CNRL at SemEval-2020 Task 5: Modelling Causal Reasoning in Language with Multi-Head Self-Attention Weights Based Counterfactual Detection</title>
+      <link>https://rajaswa.github.io/publication/semeval-counterfactual-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/semeval-counterfactual-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LRG at SemEval-2020 Task 7: Assessing the Ability of BERT and Derivative Models to Perform Short-Edits Based Humor Grading</title>
+      <link>https://rajaswa.github.io/publication/semeval-humor-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/semeval-humor-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Citta: A Lite Semantic Recommendation Framework for Digital Libraries</title>
+      <link>https://rajaswa.github.io/publication/kedl-citta-2019/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/kedl-citta-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word2Brain2Image: Visual Reconstruction from Spoken Word Representations</title>
+      <link>https://rajaswa.github.io/publication/accs-word2brain2image-2019/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/accs-word2brain2image-2019/</guid>
+      <description></description>
     </item>
     
   </channel>
