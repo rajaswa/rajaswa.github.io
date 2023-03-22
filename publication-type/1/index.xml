@@ -5,12 +5,28 @@
     <link>https://rajaswa.github.io/publication-type/1/</link>
       <atom:link href="https://rajaswa.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2023)</copyright><lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2023)</copyright><lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0530</lastBuildDate>
     <image>
       <url>https://rajaswa.github.io/media/icon_hu9617562ff5268eb82263bfd2f0880e07_2947_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://rajaswa.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Program Synthesis for Complex QA on Charts via Probabilistic Grammar Based Filtered Iterative Back-Translation</title>
+      <link>https://rajaswa.github.io/publication/program-synthesis-2023/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/program-synthesis-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Dimensions of Generalizability and Few-shot Transfer for Text-to-SQL Semantic Parsing</title>
+      <link>https://rajaswa.github.io/publication/exploring-2022/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/exploring-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DRIFT: A Toolkit for Diachronic Analysis of Scientific Literature</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shabbirhussain Bhaisaheb | Rajaswa Patil</title>
+    <link>https://rajaswa.github.io/author/shabbirhussain-bhaisaheb/</link>
+      <atom:link href="https://rajaswa.github.io/author/shabbirhussain-bhaisaheb/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shabbirhussain Bhaisaheb</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2023)</copyright><lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://rajaswa.github.io/media/icon_hu9617562ff5268eb82263bfd2f0880e07_2947_512x512_fill_lanczos_center_2.png</url>
+      <title>Shabbirhussain Bhaisaheb</title>
+      <link>https://rajaswa.github.io/author/shabbirhussain-bhaisaheb/</link>
+    </image>
+    
+    <item>
+      <title>Program Synthesis for Complex QA on Charts via Probabilistic Grammar Based Filtered Iterative Back-Translation</title>
+      <link>https://rajaswa.github.io/publication/program-synthesis-2023/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/program-synthesis-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

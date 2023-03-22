@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataset | Rajaswa Patil</title>
+    <link>https://rajaswa.github.io/tag/dataset/</link>
+      <atom:link href="https://rajaswa.github.io/tag/dataset/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dataset</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Rajaswa Patil (2023)</copyright><lastBuildDate>Sat, 03 Dec 2022 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://rajaswa.github.io/media/icon_hu9617562ff5268eb82263bfd2f0880e07_2947_512x512_fill_lanczos_center_2.png</url>
+      <title>Dataset</title>
+      <link>https://rajaswa.github.io/tag/dataset/</link>
+    </image>
+    
+    <item>
+      <title>Exploring Dimensions of Generalizability and Few-shot Transfer for Text-to-SQL Semantic Parsing</title>
+      <link>https://rajaswa.github.io/publication/exploring-2022/</link>
+      <pubDate>Sat, 03 Dec 2022 00:00:00 +0530</pubDate>
+      <guid>https://rajaswa.github.io/publication/exploring-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
